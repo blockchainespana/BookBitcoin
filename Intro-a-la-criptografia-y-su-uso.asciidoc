@@ -1,0 +1,36 @@
+== Introducción a la criptografía y su uso en Blockchain
+Antecedentes: Criptografía, Cypherpunks y el origen de la Blockchain (Referencias al otro capitulo del otro libro)
+
+=== Bases de informática (sistema hexadecimal, codificación)
+
+=== Criptografía de clave pública
+
+- Introducción criptografia: asimetrica vs simetrica
+
+- Intercambio de claves
+
+- Firma electrónica
+
+- Cifrado
+
+=== Funciones Hash
+
+- Descripción        	 
+
+- MD5               	 
+
+- SHA-1             	 
+
+- SHA-2             	 
+
+- Keccak and SHA-3 	 
+
+- Password storage   	 
+
+- Length extension attacks
+
+- Hash trees       	 
+
+=== Algoritmos (SHA256 y RIPEMD160)
+
+=== Criptografía de curva elíptica explicada: ECDSA  (Referencia)
