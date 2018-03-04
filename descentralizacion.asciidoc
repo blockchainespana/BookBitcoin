@@ -18,10 +18,10 @@ que ahora se percibe como una posible  moneda electrónica global, no es otra co
 entre diferentes participantes, protegida criptográficamente y organizada en bloques de transacciones relacionados entre sí 
 matemáticamente.
 
- Expresado de forma más breve, es una base de datos descentralizada que no puede ser alterada. También se puede definir como una 
- base de datos compartida que funciona como un libro de registro de operaciones de compra y venta, como los libros contables, 
- pero que además, como veremos mas adelante, incorpora innovadores mecanismos para interaccionar con la comunidad,  que es la que 
- elige soportar y usar este sistema.
+Expresado de forma más breve, es una base de datos descentralizada que no puede ser alterada. También se puede definir como una 
+base de datos compartida que funciona como un libro de registro de operaciones de compra y venta, como los libros contables, 
+pero que además, como veremos mas adelante, incorpora innovadores mecanismos para interaccionar con la comunidad,  que es la que 
+elige soportar y usar este sistema.
 
 
 === Concepto: Descentralización
@@ -36,14 +36,14 @@ autoritario y se elimina toda jerarquía e intereses particulares, e intervencio
 Los sistemas de igual a igual han demostrado a lo largo de su corta historia, que tienen interesantes aplicaciones tales como 
 compartición de ficheros, distribución de contenidos,  y protección de la privacidad.
 
- Sin embargo, los sistemas centralizados, a los que estamos acostumbrados, tienen puntos de fallo. Es decir, si un punto que se 
- encuentra en lo mas elevado de la jerarquía falla, el sistema puede fallar o colapsar de forma completa.
+Sin embargo, los sistemas centralizados, a los que estamos acostumbrados, tienen puntos de fallo. Es decir, si un punto que se 
+encuentra en lo mas elevado de la jerarquía falla, el sistema puede fallar o colapsar de forma completa.
 
- En cambio, en los sistemas descentralizados eso no ocurre, ya que el modelo es horizontal, y si un punto falla, ya hay otros 
- muchísimos nodos al mismo nivel, peer to peer,  de forma que no se pierde nada. Es decir, en una sociedad descentralizada se 
- intenta que todos seamos prescindibles y que no podamos hacer un daño perjudicial al resto de la sociedad, aunque queramos. Se 
- brinda al sujeto una individualidad y libertad propia acorde a su voluntad. Todo se basa en el consenso y la actitud activa. 
- Todos somos productores y consumidores de recursos, a la vez, al mismo nivel.
+En cambio, en los sistemas descentralizados eso no ocurre, ya que el modelo es horizontal, y si un punto falla, ya hay otros 
+muchísimos nodos al mismo nivel, peer to peer,  de forma que no se pierde nada. Es decir, en una sociedad descentralizada se 
+intenta que todos seamos prescindibles y que no podamos hacer un daño perjudicial al resto de la sociedad, aunque queramos. Se 
+brinda al sujeto una individualidad y libertad propia acorde a su voluntad. Todo se basa en el consenso y la actitud activa. 
+Todos somos productores y consumidores de recursos, a la vez, al mismo nivel.
 
 
 Al unirse a un sistema de igual a igual, los usuarios cambian sus ordenadores en nodos del sistema que son iguales con respecto a 
@@ -54,7 +54,7 @@ capacidad funcional y responsabilidad.
 Por lo tanto, los ordenadores de todos los usuarios son proveedores y consumidores de recursos. La descentralización permite 
 crear organizaciones en las que todos sus miembros son propietarios de los productos y servicios que estos ofrecen.
 
- Esto va a  permitir, en el presente o en el futuro, lo que se ha denominado DAO (Organizaciones Autónomas Descentralizadas), 
- organizaciones de gestion descentralizadas, por acuerdos programados entre todos los que contribuyen y participan en la 
- organización
+Esto va a  permitir, en el presente o en el futuro, lo que se ha denominado DAO (Organizaciones Autónomas Descentralizadas), 
+organizaciones de gestion descentralizadas, por acuerdos programados entre todos los que contribuyen y participan en la 
+organización
 (Ver mas abajo en “Ethereum: Supercomputacion descentralizada)
