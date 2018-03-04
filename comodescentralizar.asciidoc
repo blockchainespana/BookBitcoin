@@ -32,7 +32,7 @@ En el primer ejemplo, se selecciona un sistema de transferencia de dinero, que d
 
 Las respuestas se muestran de la siguiente manera:
 
-Respuesta 1: sistema de transferencia de dinero.
-Respuesta 2: Desintermediación.
-Respuesta 3: Bitcoin.
-Respuesta 4: Atomicidad.
+ Respuesta 1: sistema de transferencia de dinero.
+ Respuesta 2: Desintermediación.
+ Respuesta 3: Bitcoin.
+ Respuesta 4: Atomicidad.
