@@ -39,6 +39,8 @@ compartición de ficheros, distribución de contenidos,  y protección de la pri
 Sin embargo, los sistemas centralizados, a los que estamos acostumbrados, tienen puntos de fallo. Es decir, si un punto que se 
 encuentra en lo mas elevado de la jerarquía falla, el sistema puede fallar o colapsar de forma completa.
 
+
+
 En cambio, en los sistemas descentralizados eso no ocurre, ya que el modelo es horizontal, y si un punto falla, ya hay otros 
 muchísimos nodos al mismo nivel, peer to peer,  de forma que no se pierde nada. Es decir, en una sociedad descentralizada se 
 intenta que todos seamos prescindibles y que no podamos hacer un daño perjudicial al resto de la sociedad, aunque queramos. Se 
@@ -58,3 +60,64 @@ Esto va a  permitir, en el presente o en el futuro, lo que se ha denominado DAO 
 organizaciones de gestion descentralizadas, por acuerdos programados entre todos los que contribuyen y participan en la 
 organización
 (Ver mas abajo en “Ethereum: Supercomputacion descentralizada)
+
+=== Mundo descentralizado
+
+Actualmente en el planeta somos unos 7.800 millones personas, para dentro de 30 años se estima que la población mundial llegue a a cerca de 10 mil millones de personas. Este crecimiento tan rápido de la población mundial, plantea la necesidad de analizar y estudiar los modelos actuales de gestión de recursos públicos y privados, para lograr organizar de manera eficiente los recursos naturales, que desde luego son limitados, y que no permiten un crecimiento indefinido, como muchos nos hacen creer. 
+
+Ante este escenario, los sistemas descentralizados emergentes basados en tecnologia blockchain, podrian ayudar a aportar soluciones en las proximas generaciones, en medio ambiente, energia, bio-feedback, economia social, etc.. En el modelo actual que vivimos, de economia ineficiente, corrupcion, y problemas de sostenibilidad de la economia global. Vivir en un mundo descentralizado puede parecer una utopía, pero algunas de las mentes más brillantes del momento han estado trabajando con toda su energía para lograr que sea una realidad.  Pensemos por ejemplo, en quien se ha llamado Satoshi Nakamoto, sea quien sea, ha logrado en menos de 10 años idear  construir una moneda digital llamada Bitcoin, a traves del desarrollo realizado por la comunidad de software libre, basada en criptografía y descentralizada, que en estos momentos tiene un valor conjunto de  miles de millones de dólares.
+
+  Si a esto le sumamos el valor de todas las criptomonedas que se basan en la misma tecnología, nos encontramos con que se está generando una economía de un valor considerable en el futuro y de paso se está validando la idea de que realmente tiene sentido pensar en modelos económicos y sociales que funcionen de manera descentralizada, donde la confianza deja de estar depositada en gobiernos o personas para estar depositada en las matemáticas y el software.
+
+“Es necesario un sistema de pago electrónico basado en prueba criptográfica en lugar de confianza, permitiendo que dos partes interesadas realicen transacciones directamente entre ellas, sin necesidad de un tercero de confianza. Si las transacciones son computacionalmente imposibles de revertir, protegerán a los vendedores del fraude, y cualquier mecanismo de depósito de garantía se puede implementar fácilmente para proteger al comprador.” Satoshi Nakamoto
+
+Bitcoin whitepaper en  www.Bitcoin.org/Bitcoin.pdf
+
+Los negocios, el gobierno y la sociedad están basados en la confianza. Por eso muchas personas todavía se muestran escépticas al oír hablar de una tecnología que promete transformar el modo en que la logramos y aplicamos.
+
+Esto no debe ser tan extraño, cuando alguien como Dee Hock, uno de los fundadores de la red Visa, describe en su libro “One From Many” cómo las organizaciones descentralizadas podrían ayudar a superar algunos de estos problemas.
+
+En mi opinion, la tecnología Blockchain, tiene un valor estratégico muy alto para los procesos de transparencia institucional en todos los niveles de las Administraciones Públicas, desde la Administración General del Estado, a los   grupos de gestion, de los gobiernos provinciales de cualquier pais
+
+Para ello, y para que sea aceptado y que pueda ser realmente util, la tecnología blockchain tal y como hoy lo conocemos, tendrá que dar el salto desde la capa de protocolos y tecnología, en la que ahora se encuentra, para servir como base de aplicaciones de uso masivo por la gente, como lo son ahora los navegadores, buscadores, redes sociales, apps de mensajería y futuros sistemas de economía colaborativa que sea real.
+
+Podemos concluir que sistemas como Bitcoin y los proximos blockchain publicos de segunda generacion, por ejemplo Ethereum, son redes de confianza descentralizada,  cuyos cambios solo son posibles en el sistema, mediante consenso o acuerdos entre pares (peers)
+
+Estan surgiendo desarrollos e iniciativas descentralizadas sobresalientes, a partir de la tecnología blockchain de Bitcoin. De forma relevante destacamos:
+ Ethereum: SuperComputacion descentralizada
+
+====	Ethereum (https://ethereum.org) es una plataforma descentralizada, blockchain pública, que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente como se ha programaddo, sin ninguna posibilidad de tiempo de inactividad, censura, fraude o interferencia de terceros.
+
+	Imagina que toda la humanidad podría tener acceso a una sola super- computadora.  Pero  eso, de  hecho, solo puede ser construido mediante una combinación  de  cientos  de  miles  de ordenadores,  dispersos  por  el mundo,  trabajando  en  la  misma  red,  de  manera  descentralizada  y procesando  la  misma información.  Esta  es  básicamente  la  propuesta  detrás  de  la  plataforma  Ethereum. 
+	Ethereum es una plataforma digital cuya principal misión es la implementación de aplicaciones descentralizadas (Dapps) y contratos  inteligentes (Smart Contracts). 
+
+“Dapps” son programas informáticos que eliminan la  necesidad  de intermediarios en virtualmente cualquier  servicio  centralizado existente  al permitir que cualquiera confíe en una contraparte desconocida para  realizar  los más variados  tipos  de  acuerdos  y  acuerdos  de  una  manera  100%  digital. 
+
+ Si Bitcoin podemos decir que es tecnología  blockchain 1.0, a Ethereum se le considera tecnología blockchain 2.0 puesto que dispone una maquina virtual que puede realizar evaluaciones logicas y ejecutar aplicaciones descentralizadas como por ejemplo, los contratos inteligentes(Smart Contracts). 
+
+Ethereum ha sido  el primer blockchain público que permitió la programación de Smart Contracts (programas utilizando lenguaje Turing completo) en la propia cadena de bloques, esto fue algo revolucionario ya que permite hacer algoritmos, o añadir una lógica a las transferencias.
+Los Contratos Inteligentes pueden tomar decisiones, realizar transferencias y leer o ejecutar otros contratos para facilitar intercambios de dinero, contenidos, propiedad, acciones, o cualquier otro valor entre personas iguales de manera segura, transparente y sin intermediarios. (En el capitulo 11, veremos la evolución del ecosistema Bitcoin y  las implementaciones de Smart Contract).
+
+Una   aplicación   futura   de   Ethereum   son   DAOs   o   Organizaciones   Autónomas   Descentralizadas. 
+Un   DAO   se   compone   de   uno   o   más   contratos   y   podría   ser   financiado   por   un   grupo   de   personas  con   ideas   similares.   Un   DAO   opera   completamente   transparente   e   independiente   de   cualquier intervención   humana,   incluyendo   a   sus   creadores   originales.   Un   DAO   permanecerá   en   la   red  mientras   cubra   sus   costos   de   supervivencia   y   proporcione   un   servicio   útil   a   su   base   de   clientes. 
+
+==== Namecoin
+Mención especial hacemos tambien de Namecoin:  es la alternativa descentralizada al sistema de registro de nombres de dominio que actualmente es centralizado y que está controlado la organización ICANN.
+
+Creado en 2010, Namecoin (http://namecoin.org) es una base de datos de registro de nombres descentralizada. En protocolos descentralizados como Tor, Bitcoin y Bitmessage, debe haber alguna manera de identificar cuentas para que otras personas puedan interactuar con ellas. 
+
+Namecoin es el más antiguo y la implementación con más éxito de un sistema de registro de nombres usando tal idea. Es open source, tecnología de origen que mejora la descentralización, la seguridad, la resistencia a la censura, la privacidad, y la velocidad de ciertos componentes de la infraestructura de Internet, como DNS e identidades. Namecoin es realmente, un sistema de registro y transferencia de pares clave / valor basado en la tecnología Bitcoin.
+
+Otros iniciativas y aplicaciones descentralizadas:
+
+A continuación reseñamos algunas de estas iniciativas descentralizadas que estan surgiendo a partir de la tecnología blockchain de Bitcoin:
+
+1. IPFS es un protocolo diseñado para el desarrollo de la web descentralizada y cuenta con su propio cloud descentralizado llamado Filecoin. 
+2. Blockstack promueve la construcción de una Internet descentralizada y para ello está desarrollando una plataforma sobre la que se puedan construir apps que funcionen de forma descentralizada. 
+3. EOS trabaja en el desarrollo de un Sistema Operativodiseñado para dar soporte a aplicaciones comerciales descentralizadas. 
+4. Status se define como un cliente móvil para Ethereum y quiere convertirse en un sistema operativo para móviles basado en Blockchain además de un sistema de mensajería que funciones de forma descentralizada. 
+5. Civic es un sistema de identidad digital descentralizado que está especialmente pensado para hacerlo seguro y confiable. 
+6. District0x es una plataforma para el desarrollo de comunidades y marketplace que funcionen de forma descentralizada. 
+7. IOTA está desarrollando una Blockchain pensada especialmente para ser utilizada por los dispositivos de la denominada Internet de las Cosas. 
+8. Steem trabaja en la puesta en marcha de una red social descentralizada en la que los generadores del contenido sean sus propietarios y puedan obtener un beneficio económico por ello. 
+9. Brave es un Navegador que funciona sobre blockchain por lo que está descentralizado. Está pensado especialmente para respetar la privacidad de los usuarios y que estos tengan el mayor control posible sobre su actividad online.
