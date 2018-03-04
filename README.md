@@ -20,9 +20,10 @@ Here's what is available now:
 | [1. Prologo](prologo.asciidoc) | # |
 | [2. Mundo descentralizado: Cambio de Paradigma](xxx.asciidoc) | #### |
 | [- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ######|
-| [Descentralización usando Blockchain](descentralizacion.asciidoc) | # |  ######|
+| [Descentralización usando Blockchain](descentralizacion.asciidoc) |  ######|
 | [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##### |
-| [4. Mundo descentralizado: Cambio de Paradigma](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
+| [Como Descentralizar](comodescentralizar.asciidoc) | #####
+) | # |
 
 Jump in! Review, comment, suggest and contribute...
 
