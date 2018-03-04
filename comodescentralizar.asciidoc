@@ -4,21 +4,26 @@
 === Grados y parámetros a tener en cuenta:
 
 Vamos a hablar, como ejemplo de como evaluar la descentralizacion, a la hora de poner en marcha un proyecto, en cualquier ámbito. 
-Un marco ha sido propuesto por Arvind Narayanan y otros que se pueden usar para evaluar los requisitos de descentralización de una variedad de cosas en el contexto de tecnología blockchain.
+Un marco ha sido propuesto por Arvind Narayanan y otros que se pueden usar para evaluar los requisitos de descentralización de 
+una variedad de cosas en el contexto de tecnología blockchain.
 
- El marco básicamente propone cuatro preguntas que, una vez respondidas, proporcionan una idea clara de cómo se puede descentralizar un sistema. Estas preguntas se enumeran de la siguiente manera:
+El marco básicamente propone cuatro preguntas que, una vez respondidas, proporcionan una idea clara de cómo se puede 
+descentralizar un sistema. Estas preguntas se enumeran de la siguiente manera:
 
-1.¿Qué está siendo descentralizado?
+1. ¿Qué está siendo descentralizado?
 2. ¿Qué nivel de descentralización se requiere?
 3. ¿Qué cadena de bloques se usa?
 4. ¿Qué mecanismo de seguridad se usa?
 
 La primera pregunta simplemente pregunta qué sistema se descentraliza. Esto puede ser cualquier sistema, por ejemplo, un sistema de identidad o comercio.
- La siguiente pregunta se puede responder especificando el nivel de descentralización requerido al observar el tipo o grado de descentralización que hemos visto anteriormente en “Métodos de descentralización”
+
+La siguiente pregunta se puede responder especificando el nivel de descentralización requerido al observar el tipo o grado de  descentralización que hemos visto anteriormente en “Métodos de descentralización”
+
 Puede ser una desintermediación completa o una desintermediación parcial. La tercera pregunta es bastante sencillo, donde los desarrolladores pueden elegir qué cadena de bloques adecuado para una aplicación en particular.
+
 Puede ser blockchain de bitcoin, blockchain de Ethereum, o cualquier otra cadena de bloques que se considere adecuada para una aplicación específica. Finalmente, una pregunta clave necesita ser respondido sobre el mecanismo de seguridad en cuanto a cómo la seguridad de un sistema descentralizado puede ser garantizado.
-Puede ser Atomicity, por ejemplo, por el cual la transacción se ejecuta en su totalidad o no se ejecuta en absoluto. En otras palabras, es todo o nada.
-Esto asegura la integridad del sistema. Otros mecanismos pueden incluir la reputación, que permite diversos grados de confianza en un sistema.
+
+Puede ser Atomicity, por ejemplo, por el cual la transacción se ejecuta en su totalidad o no se ejecuta en absoluto. En otras palabras, es todo o nada. Esto asegura la integridad del sistema. Otros mecanismos pueden incluir la reputación, que permite diversos grados de confianza en un sistema.
 
 Ejemplo:
 
@@ -27,7 +32,7 @@ En el primer ejemplo, se selecciona un sistema de transferencia de dinero, que d
 
 Las respuestas se muestran de la siguiente manera:
 
-Respuesta 1: sistema de transferencia de dinero.
-Respuesta 2: Desintermediación.
+ Respuesta 1: sistema de transferencia de dinero.
+ Respuesta 2: Desintermediación.
 Respuesta 3: Bitcoin.
 Respuesta 4: Atomicidad.
