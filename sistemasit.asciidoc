@@ -79,7 +79,7 @@ Esto se puede explicar con la ayuda de un ejemplo. Imagina que quieres enviar di
 
 Con la tecnología Bitcoin, es posible enviar este dinero directamente a su amigo sin la necesidad de un banco. Todo lo que tu necesitas es la dirección de tu amigo en la cadena de bloques. De esta manera, el intermediario ya nunca será necesario y la descentralización se logra mediante la desintermediación o la eliminación del intermediario. 
 
-Sin embargo lo és discutible cómo es la descentralización práctica en el sector financiero por desintermediación debido a fuertes requisitos regulatorios y de cumplimiento. Sin embargo, este modelo puede usarse no solo en finanzas pero también en muchas otras industrias diferentes.
+Sin embargo lo que és discutible, es la descentralización práctica en el sector financiero por desintermediación debido a fuertes requisitos regulatorios y de cumplimiento. Sin embargo, este modelo puede usarse no solo en finanzas pero también en muchas otras industrias diferentes: Transporte, Alimentacion, Energia,Sistemas conectados, Registros legales, etc.. 
 
 -Por la competencia 
 
