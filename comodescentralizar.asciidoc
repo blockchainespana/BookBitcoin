@@ -27,8 +27,8 @@ Puede ser Atomicity, por ejemplo, por el cual la transacción se ejecuta en su t
 
 Ejemplo:
 
-En esta sección, se proporciona un ejemplo de la aplicación del escenario que hemos mencionado anteriormente.
-En el primer ejemplo, se selecciona un sistema de transferencia de dinero, que debe ser descentralizado En este caso, las cuatro preguntas mencionadas anteriormente pueden ser respondidas para evaluar los requisitos de descentralización.
+Vamos hacer un ejemplo de la aplicación del escenario que hemos mencionado anteriormente.
+En el primer caso, se selecciona un sistema de transferencia de dinero, que debe ser descentralizado En este caso, las cuatro preguntas mencionadas anteriormente pueden ser respondidas para evaluar los requisitos de descentralización.
 
 Las respuestas se muestran de la siguiente manera:
 
