@@ -23,8 +23,8 @@ Here's what is available now:
 | [Descentralización usando Blockchain](descentralizacion.asciidoc) |  ######|
 | [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##### |
 | [Como Descentralizar](comodescentralizar.asciidoc) | #####
-| 3. |
-| 4.Introducción a la criptografía y su uso en Blockchain | # |
+| [3.] |
+| [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
 
 Jump in! Review, comment, suggest and contribute...
 
