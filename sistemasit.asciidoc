@@ -77,7 +77,7 @@ Hay dos métodos que se pueden usar para lograr la descentralización. Estos mé
 
 Esto se puede explicar con la ayuda de un ejemplo. Imagina que quieres enviar dinero a tu amigo en otro país Vas a un banco que transferirá tu dinero al banco en el país de su elección por una tarifa. En este caso, el banco mantiene una base de datos central que es actualizado, confirmando que ha enviado el dinero. 
 
-Con la tecnología Bitcoin, es posible enviar este dinero directamente a su amigo sin la necesidad de un banco. Todo lo que tu necesitas es la dirección de tu amigo en la cadena de bloques. De esta manera, el intermediario es no requiere más tiempo y la descentralización se logra mediante la desintermediación. 
+Con la tecnología Bitcoin, es posible enviar este dinero directamente a su amigo sin la necesidad de un banco. Todo lo que tu necesitas es la dirección de tu amigo en la cadena de bloques. De esta manera, el intermediario ya nunca será necesario y la descentralización se logra mediante la desintermediación o la eliminación del intermediario. 
 
 Sin embargo lo és discutible cómo es la descentralización práctica en el sector financiero por desintermediación debido a fuertes requisitos regulatorios y de cumplimiento. Sin embargo, este modelo puede usarse no solo en finanzas pero también en muchas otras industrias diferentes.
 
