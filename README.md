@@ -23,7 +23,7 @@ Here's what is available now:
 | [Descentralización usando Blockchain](descentralizacion.asciidoc) |  ######|
 | [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##### |
 | [Como Descentralizar](comodescentralizar.asciidoc) | #####
-) | # |
+| # |
 
 Jump in! Review, comment, suggest and contribute...
 
