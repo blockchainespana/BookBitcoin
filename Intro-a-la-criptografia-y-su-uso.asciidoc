@@ -1,10 +1,11 @@
 == Introducción a la criptografía y su uso en Blockchain
 La criptografía, del griego “kryptos” (oculto) y “graphia” (escritura), es el arte de escribir un mensaje empleando técnicas o claves secretas de modo que sólo pueda descifrar el mensaje oculto aquel que conozca estas claves. Se trata de un arte muy antiguo, tanto que se remonta varios milenios atrás en el tiempo. Los egipcios hace 4.500 años utilizaban jeroglíficos no estándares en algunos monumentos para escribir mensajes misteriosos, después los hebreos utilizaban métodos criptográficos rudimentarios y muy comunes como el cifrado por sustitución o método espejo, una técnica que consiste en sustituir la primera letra de un alfabeto por la última del mismo, la segunda por la penúltima, y así hasta darle la vuelta al alfabeto completo.
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ +
-ZYXWVUTSRQPONMLKJIHGFEDCBA +
+image::images/cifrado_por_sustitucion_01.png[Cifrado por sustitucion, width=553]
 
 De modo que cifrar la palabra HOLA quedaría como SLOZ, puesto que la H es la octava letra del alfabeto de arriba, y su equivalente, la octava letra del alfabeto invertido de abajo es la S. La letra O es la decimoquinta letra arriba, y la decimoquinta letra de abajo es la L. La letra L es la duodécima arriba, y la duodécima letra abajo es la O. Por último la letra A es la primera letra arriba, y la primera letra abajo es la Z.
+
+image::images/cifrado_por_sustitucion_02.png[Cifrado por sustitucion, width=553]
 
 Los griegos también usaban cifrado mediante un método llamado cifrado por transposición. Esta técnica consiste en cambiar de posición agrupaciones de texto plano o conjunto de letras siguiendo un esquema bien definido. Por ejemplo:
 
