@@ -105,7 +105,7 @@ En este método, un grupo de proveedores de servicios compiten entre sí para se
 
 En el contexto de la tecnología blockchain, un sistema puede ser previsto en que los contratos inteligentes pueden elegir un proveedor de datos externo de un gran número de proveedores según su reputación, puntuación anterior, revisiones y calidad de Servicio.
 
- Esto no dará lugar a una descentralización completa, pero permite contratos inteligentes para hacer una libre elección en base a los criterios mencionados anteriormente. De esta manera, un entorno de la competencia se cultiva entre los proveedores de servicios, por lo que compiten entre sí para convertirse en el proveedor de datos de elección.
+Esto no dará lugar a una descentralización completa, pero permite contratos inteligentes para hacer una libre elección en base a los criterios mencionados anteriormente. De esta manera, un entorno de la competencia se cultiva entre los proveedores de servicios, por lo que compiten entre sí para convertirse en el proveedor de datos de elección.
 
 
 Grafico:
