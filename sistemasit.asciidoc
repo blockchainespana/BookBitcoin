@@ -5,9 +5,15 @@ Los sistemas centralizados son sistemas de TI (Tecnologias de la informacion) co
 Todas los usuarios de un sistema central dependen de una única fuente de servicio. Prestadores de servicios online o proveedores, como eBay, Google, Amazon, y la mayoría de otros proveedores, use este modelo común de prestación de servicios. 
 Sistemas Distribuidos
 
-Por otro lado, en una sistema distribuido, los datos y el cálculo se distribuyen en múltiples nodos en el red. A veces, este término se confunde con la informática paralela. Si bien hay un solapamiento en la definición, la principal diferencia entre ambos sistemas es que en un sistema paralelo, el cálculo lo realizan todos los nodos simultáneamente para lograr un resultado, mientras que en un sistema distribuido, el cálculo puede no ocurrir en paralelo y los datos son solo replicados en múltiples nodos que los usuarios ven como un único sistema coherente.
+Por otro lado, en una sistema distribuido, los datos y el cálculo se distribuyen en múltiples nodos en el red. A veces, este 
+término se confunde con la informática paralela. Si bien hay un solapamiento en la definición, la principal diferencia entre 
+ambos sistemas es que en un sistema paralelo, el cálculo lo realizan todos los nodos simultáneamente para lograr un resultado, 
+mientras que en un sistema distribuido, el cálculo puede no ocurrir en paralelo y los datos son solo replicados en múltiples 
+nodos que los usuarios ven como un único sistema coherente.
 
-Ambos modelos se usan con variaciones para lograr tolerancia a fallos  y velocidad . Pero realmente, en este modelo, todavía hay una autoridad central que tiene control sobre todos los nodos y gobierna el tratamiento de datos. Esto significa que el sistema todavía realmente está centralizado en su naturaleza.
+Ambos modelos se usan con variaciones para lograr tolerancia a fallos  y velocidad . Pero realmente, en este modelo, todavía hay 
+una autoridad central que tiene control sobre todos los nodos y gobierna el tratamiento de datos. Esto significa que el sistema 
+todavía realmente está centralizado en su naturaleza.
 Las principales ventajas de un sistema distribuido en ordenadores individuales son varias:
 
 • Mayor poder de computación
@@ -15,22 +21,27 @@ Las principales ventajas de un sistema distribuido en ordenadores individuales s
 • Mayor confiabilidad
 • Capacidad de crecer de forma natural
 
-Una definición sencilla de sistema distribuido es: un modelo en el cual los componentes ubicados en ordenadores conectados en red se comunican y coordinan sus acciones al mediante envio de mensajes que aparecen al usuario como un simple sistema coherente.1 
+Una definición sencilla de sistema distribuido es: un modelo en el cual los componentes ubicados en ordenadores conectados en 
+red se comunican y coordinan sus acciones al mediante envio de mensajes que aparecen al usuario como un simple sistema 
+coherente.1 
 
 Grafico
 
 Con esta definición, un sistema descentralizado es también un sistema distribuido. Realmente Blockchain, es una herramienta para lograr la integridad en sistemas de software distribuidos
 
 Las principales amenazas de integridad en los sistemas peer-to-peer son:
-• Fallas técnicas
-• Pares de nodos malintencionados
 
-El problema central resuelto por la tecnología Blockchain,  es lograr y mantener la integridad en un sistema punto a punto puramente distribuido que se compone de un número desconocido de pares con confiabilidad desconocida.
+- Fallas técnicas
+- Pares de nodos malintencionados
 
+El problema central resuelto por la tecnología Blockchain,  es lograr y mantener la integridad en un sistema punto a punto 
+puramente distribuido que se compone de un número desconocido de pares con confiabilidad desconocida.
 
 ==== Sistemas Descentralizados
 
- Un punto clave sobre la descentralización es que no hay un punto central de control. Se distribuyen aplicaciones y servicios de Internet grandes, pero la mayoría están centralizados porque la compañía que los ejecuta puede alterar o detener el sistema. Un sistema descentralizado es un tipo de red por el cual los nodos no dependen de un único nodo maestro; en cambio, el control se distribuye entre muchos nodos. 
+Un punto clave sobre la descentralización es que no hay un punto central de control. Se distribuyen aplicaciones y servicios de 
+Internet grandes, pero la mayoría están centralizados porque la compañía que los ejecuta puede alterar o detener el sistema. Un 
+sistema descentralizado es un tipo de red por el cual los nodos no dependen de un único nodo maestro; en cambio, el control se distribuye entre muchos nodos. 
 
 Por ejemplo, esto es análogo a un modelo en el que cada departamento de una organización tiene su propio servidor de base de datos al que están a cargo, quitándole así la potencia del servidor central y distribuyéndolo a los sub-departamentos que manejan sus propias bases de datos.
 
