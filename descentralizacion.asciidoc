@@ -47,9 +47,8 @@ intenta que todos seamos prescindibles y que no podamos hacer un daño perjudici
 brinda al sujeto una individualidad y libertad propia acorde a su voluntad. Todo se basa en el consenso y la actitud activa. 
 Todos somos productores y consumidores de recursos, a la vez, al mismo nivel.
 
-
-Al unirse a un sistema de igual a igual, los usuarios cambian sus ordenadores en nodos del sistema que son iguales con respecto a 
-sus derechos y roles.
+Al unirse a un sistema de igual a igual, los usuarios cambian sus ordenadores en nodos del sistema que son iguales con respecto 
+a sus derechos y roles.
 Aunque los usuarios pueden diferir con respecto a los recursos que contribuyen, todos los nodos en el sistema tienen la misma 
 capacidad funcional y responsabilidad. 
 
@@ -86,14 +85,15 @@ Podemos concluir que sistemas como Bitcoin y los proximos blockchain publicos de
 Estan surgiendo desarrollos e iniciativas descentralizadas sobresalientes, a partir de la tecnología blockchain de Bitcoin. De forma relevante destacamos:
 === Ethereum: SuperComputacion descentralizada
 
-== Ethereum (https://ethereum.org) es una plataforma descentralizada, blockchain pública, que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente como se ha programaddo, sin ninguna posibilidad de tiempo de inactividad, censura, fraude o interferencia de terceros.
+== Ethereum (https://ethereum.org) 
+Es una plataforma descentralizada, blockchain pública, que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente como se ha programaddo, sin ninguna posibilidad de tiempo de inactividad, censura, fraude o interferencia de terceros.
 
 Imagina que toda la humanidad podría tener acceso a una sola super- computadora.  Pero  eso, de  hecho, solo puede ser construido mediante una combinación  de  cientos  de  miles  de ordenadores,  dispersos  por  el mundo,  trabajando  en  la  misma  red,  de  manera  descentralizada  y procesando  la  misma información.  Esta  es  básicamente  la  propuesta  detrás  de  la  plataforma  Ethereum. 
 Ethereum es una plataforma digital cuya principal misión es la implementación de aplicaciones descentralizadas (Dapps) y contratos  inteligentes (Smart Contracts). 
 
 “Dapps” son programas informáticos que eliminan la  necesidad  de intermediarios en virtualmente cualquier  servicio  centralizado existente  al permitir que cualquiera confíe en una contraparte desconocida para  realizar  los más variados  tipos  de  acuerdos  y  acuerdos  de  una  manera  100%  digital. 
 
- Si Bitcoin podemos decir que es tecnología  blockchain 1.0, a Ethereum se le considera tecnología blockchain 2.0 puesto que dispone una maquina virtual que puede realizar evaluaciones logicas y ejecutar aplicaciones descentralizadas como por ejemplo, los contratos inteligentes(Smart Contracts). 
+Si Bitcoin podemos decir que es tecnología  blockchain 1.0, a Ethereum se le considera tecnología blockchain 2.0 puesto que dispone una maquina virtual que puede realizar evaluaciones logicas y ejecutar aplicaciones descentralizadas como por ejemplo, los contratos inteligentes(Smart Contracts). 
 
 Ethereum ha sido  el primer blockchain público que permitió la programación de Smart Contracts (programas utilizando lenguaje Turing completo) en la propia cadena de bloques, esto fue algo revolucionario ya que permite hacer algoritmos, o añadir una lógica a las transferencias.
 Los Contratos Inteligentes pueden tomar decisiones, realizar transferencias y leer o ejecutar otros contratos para facilitar intercambios de dinero, contenidos, propiedad, acciones, o cualquier otro valor entre personas iguales de manera segura, transparente y sin intermediarios. (En el capitulo 11, veremos la evolución del ecosistema Bitcoin y  las implementaciones de Smart Contract).
