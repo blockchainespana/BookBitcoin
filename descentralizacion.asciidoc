@@ -29,9 +29,9 @@ elige soportar y usar este sistema.
 Una de las razones por las cuales se percibe que la tecnologia que  subyace bajo el sistema de Bitcoin, es revolucionaria,  por 
 ser un sistema descentralizado, sin ninguna autoridad central.
 
-La idea de la descentralización es que, al igual que ocurre en un red peer to peer,(P2P) o lo que es lo mismo, una red de igual a 
-igual, de personas o de ordenadores, donde nadie tiene un control central de lo que ocurre, nadie puede dictar; no es un régimen 
-autoritario y se elimina toda jerarquía e intereses particulares, e intervenciones arbitrarias
+La idea de la descentralización es que, al igual que ocurre en un red peer to peer,(P2P) o lo que es lo mismo, una red de igual 
+a igual, de personas o de ordenadores, donde nadie tiene un control central de lo que ocurre, nadie puede dictar; no es un 
+régimen autoritario y se elimina toda jerarquía e intereses particulares, e intervenciones arbitrarias
 
 Los sistemas de igual a igual han demostrado a lo largo de su corta historia, que tienen interesantes aplicaciones tales como 
 compartición de ficheros, distribución de contenidos,  y protección de la privacidad.
@@ -84,12 +84,12 @@ Para ello, y para que sea aceptado y que pueda ser realmente util, la tecnologí
 Podemos concluir que sistemas como Bitcoin y los proximos blockchain publicos de segunda generacion, por ejemplo Ethereum, son redes de confianza descentralizada,  cuyos cambios solo son posibles en el sistema, mediante consenso o acuerdos entre pares (peers)
 
 Estan surgiendo desarrollos e iniciativas descentralizadas sobresalientes, a partir de la tecnología blockchain de Bitcoin. De forma relevante destacamos:
- Ethereum: SuperComputacion descentralizada
+=== Ethereum: SuperComputacion descentralizada
 
-====	Ethereum (https://ethereum.org) es una plataforma descentralizada, blockchain pública, que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente como se ha programaddo, sin ninguna posibilidad de tiempo de inactividad, censura, fraude o interferencia de terceros.
+== Ethereum (https://ethereum.org) es una plataforma descentralizada, blockchain pública, que ejecuta contratos inteligentes: aplicaciones que se ejecutan exactamente como se ha programaddo, sin ninguna posibilidad de tiempo de inactividad, censura, fraude o interferencia de terceros.
 
-	Imagina que toda la humanidad podría tener acceso a una sola super- computadora.  Pero  eso, de  hecho, solo puede ser construido mediante una combinación  de  cientos  de  miles  de ordenadores,  dispersos  por  el mundo,  trabajando  en  la  misma  red,  de  manera  descentralizada  y procesando  la  misma información.  Esta  es  básicamente  la  propuesta  detrás  de  la  plataforma  Ethereum. 
-	Ethereum es una plataforma digital cuya principal misión es la implementación de aplicaciones descentralizadas (Dapps) y contratos  inteligentes (Smart Contracts). 
+Imagina que toda la humanidad podría tener acceso a una sola super- computadora.  Pero  eso, de  hecho, solo puede ser construido mediante una combinación  de  cientos  de  miles  de ordenadores,  dispersos  por  el mundo,  trabajando  en  la  misma  red,  de  manera  descentralizada  y procesando  la  misma información.  Esta  es  básicamente  la  propuesta  detrás  de  la  plataforma  Ethereum. 
+Ethereum es una plataforma digital cuya principal misión es la implementación de aplicaciones descentralizadas (Dapps) y contratos  inteligentes (Smart Contracts). 
 
 “Dapps” son programas informáticos que eliminan la  necesidad  de intermediarios en virtualmente cualquier  servicio  centralizado existente  al permitir que cualquiera confíe en una contraparte desconocida para  realizar  los más variados  tipos  de  acuerdos  y  acuerdos  de  una  manera  100%  digital. 
 
