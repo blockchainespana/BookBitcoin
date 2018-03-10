@@ -21,6 +21,13 @@ Grafico
 
 Con esta definición, un sistema descentralizado es también un sistema distribuido. Realmente Blockchain, es una herramienta para lograr la integridad en sistemas de software distribuidos
 
+Las principales amenazas de integridad en los sistemas peer-to-peer son:
+• Fallas técnicas
+• Pares de nodos malintencionados
+
+El problema central resuelto por la tecnología Blockchain,  es lograr y mantener la integridad en un sistema punto a punto puramente distribuido que se compone de un número desconocido de pares con confiabilidad desconocida.
+
+
 ==== Sistemas Descentralizados
 
  Un punto clave sobre la descentralización es que no hay un punto central de control. Se distribuyen aplicaciones y servicios de Internet grandes, pero la mayoría están centralizados porque la compañía que los ejecuta puede alterar o detener el sistema. Un sistema descentralizado es un tipo de red por el cual los nodos no dependen de un único nodo maestro; en cambio, el control se distribuye entre muchos nodos. 
