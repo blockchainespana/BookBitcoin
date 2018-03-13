@@ -1,9 +1,9 @@
 == Introducción a la criptografía y su uso en Blockchain
-La criptografía, del griego “kryptos” (oculto) y “graphia” (escritura), es el arte de escribir un mensaje empleando técnicas o claves secretas de modo que sólo pueda descifrar el mensaje oculto aquel que conozca estas claves. Se trata de un arte muy antiguo, tanto que se remonta varios milenios atrás en el tiempo. Aunque las primeras técnicas eran muy rudimentarias, muchas de esas técnicas todavía se utilizan hoy en día. Se sabe que los egipcios hace 4.500 años utilizaban jeroglíficos no estándares en algunos monumentos para escribir mensajes misteriosos. Después los hebreos utilizron métodos criptográficos muy sencillos pero también muy comunes como el cifrado por sustitución o método espejo, una técnica que consiste en sustituir la primera letra de un alfabeto por la última del mismo, la segunda por la penúltima, y así hasta darle la vuelta al alfabeto completo.
+La criptografía, del griego “kryptos” (oculto) y “graphia” (escritura), es el arte de escribir un mensaje empleando técnicas o claves secretas de modo que sólo pueda descifrar el mensaje oculto aquel que conozca estas claves. Se trata de un arte muy antiguo, tanto que se remonta varios milenios atrás en el tiempo. Aunque las primeras técnicas eran muy rudimentarias, muchas de esas técnicas todavía se utilizan hoy en día. Se sabe que los egipcios hace 4.500 años utilizaban jeroglíficos no estándares en algunos monumentos para escribir mensajes ocultos. Después los hebreos utilizron métodos criptográficos muy sencillos pero también muy comunes como el cifrado por sustitución o método espejo, una técnica que consiste en sustituir la primera letra de un alfabeto por la última del mismo, la segunda por la penúltima, y así hasta darle la vuelta al alfabeto completo.
 
 image::images/cifrado_por_sustitucion_01.png[Cifrado por sustitucion, width=553]
 
-Con este método se puede cifrar la palabra HOLA obteniendo como resultado la palabra SLOZ, puesto que la H es la octava letra del alfabeto de arriba, y su equivalente, la octava letra del alfabeto invertido de abajo es la S. La letra O es la decimoquinta letra arriba, y la decimoquinta letra de abajo es la L. La letra L es la duodécima arriba, y la duodécima letra abajo es la O. Por último la letra A es la primera letra arriba, y la primera letra abajo es la Z.
+Con este método se puede cifrar la palabra HOLA obteniendo como resultado la palabra SLOZ, solo hay que tener en cuenta que la H es la octava letra del alfabeto de arriba, y su equivalente, la octava letra del alfabeto invertido de abajo es la S. La letra O es la decimoquinta letra arriba, y la decimoquinta letra de abajo es la L. La letra L es la duodécima arriba, y la duodécima letra abajo es la O. Por último la letra A es la primera letra arriba, y la primera letra abajo es la Z.
 
 Para comprender cómo funciona este método de sustitución o método espejo hay que poner en paralelo los dos alfabetos, buscar la letra que se quiere sustituír y cambiarla por su equivalente en el alfabeto de abajo, así pues, la letra "H" se corresponde con la letra "S", la letra "O" con la "L", la letra "L" con la "O" y finalmente la letra "A" con la "Z".
 
@@ -19,11 +19,23 @@ En este ejemplo se ha utilizado un cifrado mediante transposición columnar simp
 
 ELTI SRR UCG MAPF TIA GAOA +
 
+El emperador romano Julio César también usaba técnicas simples de criptografía para comunicarse con sus generales. Usaba un método conocido con el nombre de "Método de desplazamiento" o "Método Cesar". En realidad se trata de una variante del método de sustitución explicado anteriormente, solo que en vez de sustituír una letra del abecedario por su equivalente de otro abecedario invertido, en este caso hay que escribir los dos abecedarios en el mismo orden, uno encima de otro y desplazar uno de los dos un número de veces hacia la derecha o hacia la izquierda.
+
+Una vez comprendido este sistema de cifrado, Julio César y sus generales solo tenían que saber la clave privada para poder descifrarlo, en este caso la clave privada es un número que lo irían alternando y que serviría para desplazar el abacederio tantas posiciones como la clave indicara. En la siguiente imagen la clave privada es 3, ya que las letras del abecedario se desplaza 3 posiciones para buscar su letra correspondiente.
+
+image::images/cifrado_cesar_01.png[Cifrado Cesar, width=300]
+
+En aquella época consideraban este método de cifrado un sistema bastante seguro, pues no todo el mundo sabía de su existencia, además hay que contar con otro factor importante, y es que por aquél entonces no todo el mundo sabía leer, ni mucho menos mensajes que no se entiende lo que pone.
+
+De este sistema de cifrado derivan otros mas complejos como el cifrado ROT13, que es un sistema de cifrado César en el que la claveprivada es el número 13, o sea, que las letras del abecedario se han de desplazar 13 posiciones, así pues la letra cifrada correspondiente a la letra A es la letra N, y a la B le corresponde la O.
+
+image::images/rot13.png[ROT13, width=400]
+
 
 Antecedentes: Criptografía, Cypherpunks y el origen de la Blockchain (Referencias al otro capitulo del otro libro)
 
 === Bases de informática (sistema hexadecimal, codificación)
-Existen diferentes formas de representar un número cualquiera, el más utilizado y que todo el mundo conoce es el sistema en base 10 o simplemente sistema decimal, pero en informática o ciencias de la computación se utilizan otros formatos o codificaciones para representar los mismos números. Algunos de estos sistemas de numeración son los que vienen a continuación.
+Existen diferentes formas de representar un número cualquiera, el más utilizado y que todo el mundo conoce es el sistema en base 10 o simplemente sistema decimal, pero en informática o ciencias de la computación se utilizan otros formatos o codificaciones para representar los mismos números. Algunos de estos sistemas de numeración se detallan a continuación.
 
 ==== Sistema Decimal
 Se trata de aquellos números que van del 0 al 9 y que cumplen la regla en la que cada 10 dígitos cambia la cifra de la izquierda, empezando a contar de nuevo de 0 a 9 por la derecha, por ejemplo:
