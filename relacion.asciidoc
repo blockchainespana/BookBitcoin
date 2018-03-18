@@ -1,5 +1,5 @@
 
-##¿Cómo se relaciona Blockchain con Bitcoin?
+==¿Cómo se relaciona Blockchain con Bitcoin?
 
 Blockchain es posiblemente la innovación más poderosa asociada con Bitcoin, ya que innumerables industrias, desde servicios financieros hasta servicios de culaquier tipo, que podamos imaginar, han comenzado a contemplar cómo aprovechar la tecnología para sus propios usos.
 
