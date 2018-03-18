@@ -1,0 +1,7 @@
+== El Poder de la Cadena de Bloques
+
+El poder esencial de la tecnología Blockchain es su capacidad para distribuir información. Debido a que se distribuye en todos los nodos o ordenadores individuales que componen el sistema, el término "tecnología de cadena de bloques" a menudo se intercambia con "tecnología de contabilidad distribuida". La base de datos de una cadena de bloques no se almacena en una sola ubicación, lo que podría ser infiltrados o controlados por una sola parte, sino que está alojado en numerosas (en el caso de Bitcoin, decenas de miles) de ordenadores a la vez.
+
+La red Blockchain se verifica automáticamente a sí misma a ciertos intervalos, creando un sistema de auto-auditoría que garantiza la precisión de los datos que contiene. Los grupos de estos datos se conocen como "bloques", y como estos bloques se encadenan criptográficamente, los datos se entierran y son más difíciles de manipular. Alterar cualquier pieza de datos en la cadena de bloques requeriría una gran cantidad de poder de computación
+
+Por lo tanto, el argumento que explica el potencial de la cadena de bloques es: los sistemas P2P distribuidos puramente tienen una enorme potencial comercial ya que pueden reemplazar los sistemas centralizados y cambiar todo tipo de industrias, empresas y negocios, debido a la des-intermediación.
