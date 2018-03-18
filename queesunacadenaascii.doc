@@ -1,0 +1,19 @@
+Entonces vale la pena preguntar: 
+
+== ¿Qué es una cadena de bloques?
+
+Cada uno de esos bloques contiene la información codificada de una transacción en la red.
+
+La idea básica de una cadenas de bloques es mantener un registro, libro de contabilidad o base de datos distribuida de cierto tipo de información a lo largo del tiempo y que resista especialmente modificaciones malintencionadas. Normalmente se emplea en transacciones de tipo financiero, de modo que la cadena de bloques es una especie de «libro de contabilidad público incorruptible»: la información más reciente depende de que toda la información del pasado se encuentre intacta. Esto evita la manipulación y sirve como protección ante fraudes. En Bitcoin, por ejemplo, se usa para saber quién paga qué a quién, de modo que no se pueda negar haber recibido o pagado algo.
+
+=== Transferencia del valor
+
+Las tecnologías consensuadas descentralizadas proporcionan, por primera vez, una forma para que un usuario de Internet transfiera una propiedad digital única a otro usuario de Internet, de modo que la transferencia garantizada sea segura, pública e irrefutable. De adoptarse, estas tecnologías podrían transformar fundamentalmente la forma en que opera el mundo, introduciendo una gama de eficiencias para el comercio, las finanzas, las leyes y los seguros, y permitiendo la creación de la próxima generación de la World Wide Web.
+
+Podemos hablar de lo que se ha llamado el internet del valor: Las cadenas de bloques no solo sirven para transmitir información sino para transmitir valor porque :
+
+– Disponen de una unidad de cuenta
+– Son inmutables
+– Son seguras
+– Funcionan sin autoridad central y sin terceros de confianza
+– Tienen un mecanismo de consenso
