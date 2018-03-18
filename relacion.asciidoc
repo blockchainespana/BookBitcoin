@@ -7,7 +7,7 @@ Blockchain es la tecnología que permite la existencia de la criptomoneda. Bitco
 
 El sistema de Nakamoto, contiene la descripcion de un sistema de pagos que permitiría a sus usuarios proteger la propiedad mediante el uso de criptografía de clave asimetrica. 
  
-En realidad, para encontrar la idea de sistema criptografico distribuido, podemos retroceder en el pasado, hasta 1976 en un paper de investigación llamado:“New Directions in Cryptography : https://ee.stanford.edu/~hellman/publications/24.pdf, donde los grandes padres de la criptografia de clave publica  Diffie y Hellman dibujan ya sus posibilidades de distribución de claves e información
+En realidad, para encontrar la idea de sistema criptografico distribuido, podemos retroceder en el pasado, hasta 1976 en un paper de investigación llamado:“New Directions in Cryptography" : https://ee.stanford.edu/~hellman/publications/24.pdf, donde los grandes padres de la criptografia de clave publica  Diffie y Hellman dibujan ya sus posibilidades de distribución de claves e información
 
  
 Pero como veremos ahora mas adelante, de forma mas detallada, Satoshi también consigue solucionar y evitar el doble gasto gracias a una base de datos descentralizada y validada por consenso a través de una prueba de trabajo que realizan los propios usuarios y los que soportan las monedas digitales, o bienes de valor dentro del sistema. La revolución radica en que con este sistema, ya no es necesaria la actuación de un tercero de confianza que certifique y transfiera la propiedad digital 
