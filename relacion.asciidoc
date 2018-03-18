@@ -1,5 +1,5 @@
 
-==¿Cómo se relaciona Blockchain con Bitcoin?
+== ¿Cómo se relaciona Blockchain con Bitcoin?
 
 Blockchain es posiblemente la innovación más poderosa asociada con Bitcoin, ya que innumerables industrias, desde servicios financieros hasta servicios de culaquier tipo, que podamos imaginar, han comenzado a contemplar cómo aprovechar la tecnología para sus propios usos.
 
@@ -10,6 +10,6 @@ El sistema de Nakamoto, contiene la descripcion de un sistema de pagos que permi
 En realidad, para encontrar la idea de sistema criptografico distribuido, podemos retroceder en el pasado, hasta 1976 en un paper de investigación llamado:“New Directions in Cryptography : https://ee.stanford.edu/~hellman/publications/24.pdf, donde los grandes padres de la criptografia de clave publica  Diffie y Hellman dibujan ya sus posibilidades de distribución de claves e información
 
  
- Pero como veremos ahora mas adelante, de forma mas detallada, Satoshi también consigue solucionar y evitar el doble gasto gracias a una base de datos descentralizada y validada por consenso a través de una prueba de trabajo que realizan los propios usuarios y los que soportan las monedas digitales, o bienes de valor dentro del sistema. La revolución radica en que con este sistema, ya no es necesaria la actuación de un tercero de confianza que certifique y transfiera la propiedad digital 
+Pero como veremos ahora mas adelante, de forma mas detallada, Satoshi también consigue solucionar y evitar el doble gasto gracias a una base de datos descentralizada y validada por consenso a través de una prueba de trabajo que realizan los propios usuarios y los que soportan las monedas digitales, o bienes de valor dentro del sistema. La revolución radica en que con este sistema, ya no es necesaria la actuación de un tercero de confianza que certifique y transfiera la propiedad digital 
 
 Blockchain es el corazón de Bitcoin. La tecnología Blockchain es la primera en permitir a la vez: resistencia a la censura, descentralización, ausencia de confianza en terceros, globalidad y neutralidad.
