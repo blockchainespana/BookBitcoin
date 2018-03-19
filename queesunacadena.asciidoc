@@ -12,8 +12,8 @@ Las tecnologías consensuadas descentralizadas proporcionan, por primera vez, un
 
 Podemos hablar de lo que se ha llamado el internet del valor: Las cadenas de bloques no solo sirven para transmitir información sino para transmitir valor porque :
 
-– Disponen de una unidad de cuenta
-– Son inmutables
-– Son seguras
-– Funcionan sin autoridad central y sin terceros de confianza
-– Tienen un mecanismo de consenso
+–Disponen de una unidad de cuenta
+–Son inmutables
+–Son seguras
+–Funcionan sin autoridad central y sin terceros de confianza
+–Tienen un mecanismo de consenso
