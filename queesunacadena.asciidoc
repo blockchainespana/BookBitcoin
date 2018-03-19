@@ -8,7 +8,7 @@ La idea básica de una cadenas de bloques es mantener un registro, libro de cont
 
 === Transferencia del valor
 
-Las tecnologías consensuadas descentralizadas proporcionan, por primera vez, una forma para que un usuario de Internet transfiera una propiedad digital única a otro usuario de Internet, de modo que la transferencia garantizada sea segura, pública e irrefutable. De adoptarse, estas tecnologías podrían transformar fundamentalmente la forma en que opera el mundo, introduciendo una gama de eficiencias para el comercio, las finanzas, las leyes y los seguros, y permitiendo la creación de la próxima generación de la World Wide Web.
+Las tecnologías consensuadas descentralizadas proporcionan, por primera vez, una forma para que un usuario de Internet transfiera una propiedad digital única a otro usuario de Internet, de modo que la transferencia garantizada sea segura, pública e irrefutable. De adoptarse, estas tecnologías podrían transformar fundamentalmente la forma en que opera el mundo, introduciendo una gama de eficiencias para el comercio, las finanzas, las leyes y los seguros, y permitiendo la creación de la próxima generación de la World Wide Web, lo que ya se denomina como Web3.
 
 Podemos hablar de lo que se ha llamado el internet del valor: Las cadenas de bloques no solo sirven para transmitir información sino para transmitir valor porque :
 
