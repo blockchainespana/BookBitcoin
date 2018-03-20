@@ -3,13 +3,9 @@ La criptografía, del griego “kryptos” (oculto) y “graphia” (escritura),
 
 image::images/cifrado_por_sustitucion_01.png[Cifrado por sustitucion, width=553]
 
-Con este método se puede cifrar la palabra HOLA obteniendo como resultado la palabra SLOZ, solo hay que tener en cuenta que la H es la octava letra del alfabeto de arriba, y su equivalente, la octava letra del alfabeto invertido de abajo es la S. La letra O es la decimoquinta letra arriba, y la decimoquinta letra de abajo es la L. La letra L es la duodécima arriba, y la duodécima letra abajo es la O. Por último la letra A es la primera letra arriba, y la primera letra abajo es la Z.
-
-Para comprender cómo funciona este método de sustitución o método espejo hay que poner en paralelo los dos alfabetos, buscar la letra que se quiere sustituír y cambiarla por su equivalente en el alfabeto de abajo, así pues, la letra "H" se corresponde con la letra "S", la letra "O" con la "L", la letra "L" con la "O" y finalmente la letra "A" con la "Z".
+Con este método se puede cifrar la palabra HOLA obteniendo como resultado la palabra SLOZ. Para comprender cómo funciona este método de sustitución o método espejo hay que poner en paralelo los dos alfabetos, buscar la letra que se quiere sustituír y cambiarla por su equivalente en el alfabeto de abajo, así pues, la letra "H" se corresponde con la letra "S", la letra "O" con la "L", la letra "L" con la "O" y finalmente la letra "A" con la "Z".
 
 image::images/cifrado_por_sustitucion_02.png[Cifrado por sustitucion, width=553]
-
-(Hablar aquí del cifrado rot o cifrado César)
 
 Los griegos también usaban cifrado mediante un método llamado cifrado por transposición. Esta técnica consiste en cambiar de posición agrupaciones de texto plano o conjunto de letras siguiendo un esquema bien definido. Por ejemplo:
 
@@ -19,7 +15,7 @@ En este ejemplo se ha utilizado un cifrado mediante transposición columnar simp
 
 ELTI SRR UCG MAPF TIA GAOA +
 
-El emperador romano Julio César también usaba técnicas simples de criptografía para comunicarse con sus generales. Usaba un método conocido con el nombre de "Método de desplazamiento" o "Método Cesar". En realidad se trata de una variante del método de sustitución explicado anteriormente, solo que en vez de sustituír una letra del abecedario por su equivalente de otro abecedario invertido, en este caso hay que escribir los dos abecedarios en el mismo orden, uno encima de otro y desplazar uno de los dos un número de veces hacia la derecha o hacia la izquierda.
+El emperador romano Julio César también usaba técnicas simples de criptografía para comunicarse con sus generales. Usaba un método conocido con el nombre de "Método de desplazamiento" o "Método César" en honor a su propio nombre. En realidad se trata de una variante del método de sustitución explicado anteriormente, solo que en vez de sustituír una letra del abecedario por su equivalente de otro abecedario invertido, en este caso hay que escribir los dos abecedarios en el mismo orden, uno encima de otro y desplazar uno de los dos un número de veces hacia la derecha o hacia la izquierda.
 
 Una vez comprendido este sistema de cifrado, Julio César y sus generales solo tenían que saber la clave privada para poder descifrarlo, en este caso la clave privada es un número que lo irían alternando y que serviría para desplazar el abacederio tantas posiciones como la clave indicara. En la siguiente imagen la clave privada es 3, ya que las letras del abecedario se desplaza 3 posiciones para buscar su letra correspondiente.
 
