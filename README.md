@@ -29,6 +29,9 @@ Here's what is available now:
 | [- ¿Que es una cadena de bloques?](queesunacadena.asciidoc) |###### |
 
 | [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
+| [5. Blockchain Bitcoin](xxx.asciidoc) | #### |
+| [ - Breve historia: Antecedentes y origen](origen.asciidoc) | ### |
+
 
 Jump in! Review, comment, suggest and contribute...
 
