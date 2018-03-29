@@ -1,0 +1,116 @@
+=== Sistemas IT: SISTEMAS DISTRIBUIDOS vs SISTEMAS DESCENTRALIZADOS
+
+Los sistemas centralizados son sistemas de TI (Tecnologias de la informacion) convencionales (cliente-servidor) en los que existe una sola autoridad que controla el sistema y es el único responsable de todas las operaciones en el sistema. (Arquitectura Cliente-Servidor)
+
+Todas los usuarios de un sistema central dependen de una única fuente de servicio. Prestadores de servicios online o proveedores, como eBay, Google, Amazon, y la mayoría de otros proveedores, use este modelo común de prestación de servicios. 
+Sistemas Distribuidos
+
+Por otro lado, en una sistema distribuido, los datos y el cálculo se distribuyen en múltiples nodos en el red. A veces, este 
+término se confunde con la informática paralela. Si bien hay un solapamiento en la definición, la principal diferencia entre 
+ambos sistemas es que en un sistema paralelo, el cálculo lo realizan todos los nodos simultáneamente para lograr un resultado, 
+mientras que en un sistema distribuido, el cálculo puede no ocurrir en paralelo y los datos son solo replicados en múltiples 
+nodos que los usuarios ven como un único sistema coherente.
+
+Ambos modelos se usan con variaciones para lograr tolerancia a fallos  y velocidad . Pero realmente, en este modelo, todavía hay 
+una autoridad central que tiene control sobre todos los nodos y gobierna el tratamiento de datos. Esto significa que el sistema 
+todavía realmente está centralizado en su naturaleza.
+Las principales ventajas de un sistema distribuido en ordenadores individuales son varias:
+
+• Mayor poder de computación
+• Reducción de coste
+• Mayor confiabilidad
+• Capacidad de crecer de forma natural
+
+Una definición sencilla de sistema distribuido es: un modelo en el cual los componentes ubicados en ordenadores conectados en 
+red se comunican y coordinan sus acciones al mediante envio de mensajes que aparecen al usuario como un simple sistema 
+coherente.1 
+
+Grafico
+
+Con esta definición, un sistema descentralizado es también un sistema distribuido. Realmente Blockchain, es una herramienta para lograr la integridad en sistemas de software distribuidos
+
+Las principales amenazas de integridad en los sistemas peer-to-peer son:
+
+- Fallas técnicas
+- Pares de nodos malintencionados
+
+El problema central resuelto por la tecnología Blockchain,  es lograr y mantener la integridad en un sistema punto a punto 
+puramente distribuido que se compone de un número desconocido de pares con confiabilidad desconocida.
+
+==== Sistemas Descentralizados
+
+Un punto clave sobre la descentralización es que no hay un punto central de control. Se distribuyen aplicaciones y servicios de 
+Internet grandes, pero la mayoría están centralizados porque la compañía que los ejecuta puede alterar o detener el sistema. Un 
+sistema descentralizado es un tipo de red por el cual los nodos no dependen de un único nodo maestro; en cambio, el control se distribuye entre muchos nodos. 
+
+Por ejemplo, esto es análogo a un modelo en el que cada departamento de una organización tiene su propio servidor de base de datos al que están a cargo, quitándole así la potencia del servidor central y distribuyéndolo a los sub-departamentos que manejan sus propias bases de datos.
+
+Una verdadera innovación en el paradigma descentralizado que ha comenzado esta nueva era de aplicaciones de descentralización es el consenso descentralizado, que se introdujo con Bitcoin. Esto permite al usuario acordar algo a través de un algoritmo de consenso sin el necesidad de un tercero central confiable, intermediario o proveedor de servicios.
+
+==== Consenso en blockchain
+
+El consenso es básicamente un concepto de computación distribuida que se ha utilizado en blockchain con el fin de proporcionar un medio para acordar una única versión de la verdad por parte de todos los pares en la red blockchain. 
+
+Aproximadamente, existen las siguientes dos categorías de mecanismos de consenso distribuido:
+
+1. Basado en la prueba, basado en el líder o el consenso de Nakamoto según el cual un líder es elegido y propone un valor final
+
+2. Basado en un sistema de tolerancia de “Fallos bizantinos”: es decir, un nodo envía mensajes arbitrarios, en un sistema distribuido. Este es un enfoque más tradicional basado en rondas de votos. Realmente, se Intenta dar solucion al dilema de lograr un consenso entre un conjunto de entidades o nodos con un objetivo común cuando entre ellos pueden existir traidores(fallos en el sistema), es decir, entidades con objetivos opuestos que intenten dinamitar el proceso. Además, se supone que las comunicaciones entre dichas entidades son limitadas e inseguras, como ocurre en Internet.
+
+Los algoritmos de consenso que están disponibles hoy o que se están investigando en el contexto de blockchain los podremos ver más adelante. Esta no es una lista exhaustiva, pero se ha intentado enumerar de forma breve todos los algoritmos importantes implicados en Bitcoin.
+
+Finalmente, sobre las redes como Bitcoin, podemos decir:
+
+- Que están políticamente descentralizadas (nadie las controla)
+
+- Que a nivel de arquitectura, es un sistema descentralizado (no hay un punto central de infraestructura de fallo)
+
+-  Pero a nivel lógico,  estan centralizadas (hay un estado comúnmente acordado y el sistema se comporta como una sola computadora)
+
+Grafico: Red Global de nodos Bitcoin
+
+==== Tres razones para la descentralización:
+
+La siguiente pregunta es, ¿por qué la descentralización es útil en primer lugar? 
+
+En general, hay varios argumentos planteados:
+
+- La tolerancia a fallos:
+
+	Los sistemas descentralizados tienen menos probabilidades de fallar accidentalmente porque dependen de muchos componentes separados que no son probables.
+
+- Resistencia al ataque:
+
+	Los sistemas descentralizados son más caros de atacar y destruir o manipular porque carecen de puntos centrales sensibles que pueden ser atacados a un costo mucho más bajo que el tamaño económico del sistema circundante.
+
+- Resistencia a acuerdos ilegales:
+ 
+ Es mucho más difícil para los participantes en sistemas descentralizados actuar en formas que los benefician a expensas de otras partes, mientras que las direcciones de corporaciones y gobiernos acuerden de forma velada, soluciones que se benefician unos pocos, pero perjudican a ciudadanos, clientes, empleados y al público en general que estan menos coordinados todo el tiempo.
+
+==== Métodos de descentralización
+
+Hay dos métodos que se pueden usar para lograr la descentralización. Estos métodos son discutido en detalle en las siguientes secciones.
+
+-Desintermediación
+
+Esto se puede explicar con la ayuda de un ejemplo. Imagina que quieres enviar dinero a tu amigo en otro país Vas a un banco que transferirá tu dinero al banco en el país de su elección por una tarifa. En este caso, el banco mantiene una base de datos central que es actualizado, confirmando que ha enviado el dinero. 
+
+Con la tecnología Bitcoin, es posible enviar este dinero directamente a su amigo sin la necesidad de un banco. Todo lo que tu necesitas es la dirección de tu amigo en la cadena de bloques. De esta manera, el intermediario ya nunca será necesario y la descentralización se logra mediante la desintermediación o la eliminación del intermediario. 
+
+Sin embargo lo que és discutible, es la descentralización práctica en el sector financiero por desintermediación debido a fuertes requisitos regulatorios y de cumplimiento. Sin embargo, este modelo puede usarse no solo en finanzas pero también en muchas otras industrias diferentes: Transporte, Alimentacion, Energia,Sistemas conectados, Registros legales, etc.. 
+
+-Por la competencia 
+
+En este método, un grupo de proveedores de servicios compiten entre sí para ser seleccionados para la provisión de servicios por el sistema. Este paradigma no se completa descentralización, pero hasta cierto punto asegura que un intermediario o proveedor de servicios no está monopolizando el servicio. 
+
+En el contexto de la tecnología blockchain, un sistema puede ser previsto en que los contratos inteligentes pueden elegir un proveedor de datos externo de un gran número de proveedores según su reputación, puntuación anterior, revisiones y calidad de Servicio.
+
+Esto no dará lugar a una descentralización completa, pero permite contratos inteligentes para hacer una libre elección en base a los criterios mencionados anteriormente. De esta manera, un entorno de la competencia se cultiva entre los proveedores de servicios, por lo que compiten entre sí para convertirse en el proveedor de datos de elección.
+
+
+Grafico:
+Sectores de la Economía que actualmente trabajan con tecnología Blockchain según informa la Comisión Europea.
+
+
+
+

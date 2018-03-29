@@ -18,10 +18,20 @@ Here's what is available now:
 | Section | Progress |
 |-------|------|
 | [1. Prologo](prologo.asciidoc) | # |
-| [2. Mundo descentralizado: Cambio de Paradigma] | #############
-| [- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ################ |
-| [Descentralización usando Blockchain](descentralizacion.asciidoc) | ################ |
-| [Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) |################ |
+| [2. Mundo descentralizado: Cambio de Paradigma](xxx.asciidoc) | #### |
+| [- Internet del valor : Salto Tecnológico y social](saltotec.asciidoc) | ######|
+| [- Descentralización usando Blockchain](descentralizacion.asciidoc) |  ######|
+| [- Sistemas IT: Distribuidos vs Computación descentralizada](sistemas-it.asciidoc) | ##### |
+| [- Como Descentralizar](comodescentralizar.asciidoc) | #####
+| [3. Definición de Blockchain] |######
+| [- ¿Cómo se relaciona Blockchain con Bitcoin?](relacion.asciidoc) |###### |
+| [- El Poder de la Cadena de Bloques](podercadena.asciidoc) |###### |
+| [- ¿Que es una cadena de bloques?](queesunacadena.asciidoc) |###### |
+
+| [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
+| [5. Blockchain Bitcoin](xxx.asciidoc) | #### |
+| [ - Breve historia: Antecedentes y origen](origen.asciidoc) | ### |
+
 
 Jump in! Review, comment, suggest and contribute...
 

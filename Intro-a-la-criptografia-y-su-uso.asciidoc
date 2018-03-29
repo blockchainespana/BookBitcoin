@@ -1,0 +1,125 @@
+== Introducción a la criptografía y su uso en Blockchain
+La criptografía, del griego “kryptos” (oculto) y “graphia” (escritura), es el arte de escribir un mensaje empleando técnicas o claves secretas de modo que sólo pueda descifrar el mensaje oculto aquel que conozca estas claves. Se trata de un arte muy antiguo, tanto que se remonta varios milenios atrás en el tiempo. Aunque las primeras técnicas eran muy rudimentarias, muchas de esas técnicas todavía se utilizan hoy en día. Se sabe que los egipcios hace 4.500 años utilizaban jeroglíficos no estándares en algunos monumentos para escribir mensajes ocultos. Después los hebreos utilizron métodos criptográficos muy sencillos pero también muy comunes como el cifrado por sustitución o método espejo, una técnica que consiste en sustituir la primera letra de un alfabeto por la última del mismo, la segunda por la penúltima, y así hasta darle la vuelta al alfabeto completo.
+
+image::images/cifrado_por_sustitucion_01.png[Cifrado por sustitucion, width=553]
+
+Con este método se puede cifrar la palabra HOLA obteniendo como resultado la palabra SLOZ. Para comprender cómo funciona este método de sustitución o método espejo hay que poner en paralelo los dos alfabetos, buscar la letra que se quiere sustituír y cambiarla por su equivalente en el alfabeto de abajo, así pues, la letra "H" se corresponde con la letra "S", la letra "O" con la "L", la letra "L" con la "O" y finalmente la letra "A" con la "Z".
+
+image::images/cifrado_por_sustitucion_02.png[Cifrado por sustitucion, width=553]
+
+Los griegos también usaban cifrado mediante un método llamado cifrado por transposición. Esta técnica consiste en cambiar de posición agrupaciones de texto plano o conjunto de letras siguiendo un esquema bien definido. Por ejemplo:
+
+image::images/transposicion_columnar_simple.png[Transposicion columnar simple]
+
+En este ejemplo se ha utilizado un cifrado mediante transposición columnar simple. Se va a cifrar el mensaje “ME GUSTA LA  CRIPTOGRAFIA” y para cifrar el mensaje se utilizará la clave “JARRON”. Las reglas o el esquema se define de la siguiente manera, se escribe la clave, debajo de cada letra de la clave se escribe el orden alfabético de esas letras, la A es el 1, la B es el 2, la C es el 3, y así con cada una de las letras. A continuación se escribe el mensaje de izquierda a derecha con cada letra debajo de los números formando columnas. Tantas columnas como la longitud de la clave, en este ejemplo “JARRON” tiene seis letras, por lo tanto serán seis columnas. Una vez completada la tabla con sus filas y columnas solo queda escribir el mensaje de arriba a abajo siguiendo el orden numérico de las columnas, quedando el mensaje cifrado resultante:
+
+ELTI SRR UCG MAPF TIA GAOA +
+
+El emperador romano Julio César también usaba técnicas simples de criptografía para comunicarse con sus generales. Usaba un método conocido con el nombre de "Método de desplazamiento" o "Método César" en honor a su propio nombre. En realidad se trata de una variante del método de sustitución explicado anteriormente, solo que en vez de sustituír una letra del abecedario por su equivalente de otro abecedario invertido, en este caso hay que escribir los dos abecedarios en el mismo orden, uno encima de otro y desplazar uno de los dos un número de veces hacia la derecha o hacia la izquierda.
+
+Una vez comprendido este sistema de cifrado, Julio César y sus generales solo tenían que saber la clave privada para poder descifrarlo, en este caso la clave privada es un número que lo irían alternando y que serviría para desplazar el abacederio tantas posiciones como la clave indicara. En la siguiente imagen la clave privada es 3, ya que las letras del abecedario se desplaza 3 posiciones para buscar su letra correspondiente.
+
+image::images/cifrado_cesar_01.png[Cifrado Cesar, width=300]
+
+En aquella época consideraban este método de cifrado un sistema bastante seguro, pues no todo el mundo sabía de su existencia, además hay que contar con otro factor importante, y es que por aquél entonces no todo el mundo sabía leer, ni mucho menos mensajes que no se entiende lo que pone.
+
+De este sistema de cifrado derivan otros mas complejos como el cifrado ROT13, que es un sistema de cifrado César en el que la clave privada es el número 13, o sea, que las letras del abecedario se han de desplazar 13 posiciones, así pues la letra cifrada correspondiente a la letra A es la letra N, y a la B le corresponde la O.
+
+image::images/rot13.png[ROT13, width=400]
+
+Las principales aplicaciones criptográficas eran de carácter militar, una manera de enviar mensajes ocultos a las tropas sin riesgo de que el enemigo pudiera descubrir las ordenes o los planes de acción en caso de que el mensaje fuera interceptado. Con el paso del tiempo se han ido perfeccionando prograsivamente todas estas técnicas de cifrado. Algunos métodos eran tan complejos de implementar y revertir que finalmente se optó por construír máquinas, primero mecánicas y luego electrónicas, que se encargaran de automatizar estas tareas. A principios del siglo XX, durante la primera guerra mundial se construyeron las primeras máquinas de cálculo para cifrar y descifrar mensajes a una mayor velocidad, pero sin duda la máquina más conocida se contruyó durante la Segunda Guerra Mundial, la máquina Enigma. La utilizó la Marina del ejército alemán para enviar instrucciones cifradas a los submarinos que boicoteaban los barcos de ayuda que venían de los Estados Unidos de América. El matemático, lógico y criptógrafo británico Alan Turing trabajó en el desarrollo de una máquina que fuera capaz de descifrar los códigos secretos que cifraba la máquina Enigma. En el ejército alemán no solo se usó la máquina Enigma, también utilizaban otra máquina de rotores llamada Lorenz, en este caso se usaba para cifrar comunicaciones de teletipo entre oficiales de alto rango. Esta máquina tenía su propio algoritmo de cifrado, basado en máquinas experimentales muy similares usadas en la Primera Guerra Mundial. Se puede afirmar que durante la primera mitad del siglo XX es cuando realmente la criptografía desarrolla grandes avances. En parte es debido al desarrollo de las primeras computadoras electrónicas que realizaban cálculos matemáticos y probabilísticos a gran velocidad, como el computador Colossus.
+
+image::images/enigma_y_lorenz.PNG[ROT13, width=500]
+
+=== Bases de informática (sistema hexadecimal, codificación)
+Existen diferentes formas de representar un número cualquiera, el más utilizado y que todo el mundo conoce es el sistema en base 10 o simplemente sistema decimal, pero en informática o ciencias de la computación se utilizan otros formatos o codificaciones para representar los mismos números. Algunos de estos sistemas de numeración se detallan a continuación.
+
+==== Sistema Decimal
+Se trata de aquellos números que van del 0 al 9 y que cumplen la regla en la que cada 10 dígitos cambia la cifra de la izquierda, empezando a contar de nuevo de 0 a 9 por la derecha, por ejemplo:
+
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, +
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19, +
+20, 21, 22, 23, 24, 25, 26, 27, 28, 29, +
+30, 31, 32, 33, ... +
+
+Se puede apreciar que cada vez que llegamos a 9 se empieza a contar de cero otra vez y se aumenta el número inmediatamente de su izquierda. Así pues, se puede adivinar fácilmente qué número vendrá después del 59, solo hay que cambiar el 9 por un 0 y aumentar el 5 a 6, quedando finalmente el número 60. A partir de ahí hay que ir ascendiendo desde el 0 hasta el 9 igual que antes, 60, 61, 62, 63, ... hasta llegar al 69, donde se realizaría la misma operación para llegar al número 70, y así sucesivamente.
+
+==== Sistema Binario
+Otra forma de representar números es en en base 2 o sistema binario. Son números compuestos únicamente de los dígitos 0 y 1, y se trata de el lenguaje que realmente entienden los ordenadores y cualquier aparato que funcione con un sistema digital, como un reloj de pulsera, una lavadora, una máquina expendedora de bebidas, la puerta de un garaje o un radar de tráfico. A diferencia del sistema decimal que se ha explicado en la sección anterior, en el sistema binario cada 2 dígitos sucede un cambio en la cifra de la izquierda, por ejemplo:
+
+00000000 +
+00000001 +
+00000010 +
+00000011 +
+00000100 +
+00000101 +
+00000110 +
+00000111 +
+00001000 +
+00001001 +
+. +
+. +
+. +
+00101101 +
+
+En este ejemplo se muestra una progresión numérica en sistema binario. Se puede ver que la cifra situada a la derecha del todo va oscilando entre 0 y 1 de forma constante, de modo que cada vez que alcanza el valor 1 automáticamente en el siguiente cambio vuelve a tener el valor 0, y el dígito que tiene inmediatamente a su izquierda también cambia, variando entre 0 y 1. Habiendo entendido este punto al lector le resultará fácil averiguar qué número binario vendría después del número 00001001.
+
+==== Sistema Octal
+Los números también se pueden representar en base 8 o sistema octal. Siguiendo la lógica anterior son los números que cada 8 dígitos, o sea los números del 0 al 7, sucede un cambio en la cifra de la izquierda, por ejemplo:
+
+00, 01, 02, 03, 04, 05, 06, 07, +
+10, 11, 12, 13, 14, 15, 16, 17, +
+20, 21, 22, 23, 24, 25, 26, 27, +
+30, 31, 32, 33, ... +
+
+Aplicando estas reglas se podrá averiguar fácilmente qué número octal viene después del número 37.
+
+==== Sistema Hexadecimal
+Otro forma muy común de representar números en sistemas computacionales es en base 16 o sistema hexadecimal. Aquí entran en juego algunas letras para representar los números mayores de 9. Del mismo modo que en sistemas anteriores la cifra de la izquierda aumentaba cada dos digitos (binario), cada ocho dígitos (octal) o cada diez dígitos (decimal), en unsistema hexadecimal esta cifra aumenta cada dieciséis dígitos. Una vez se alcanza la cifra 9 a continuación vendría la letra A, luego B, C, D, E y finalmente la letra F. La A representa el número decimal 10, B el 11, C el 12, D el 13, E el 14 y F el 15, en total es la representación de dieciséis números, desde el 0 hasta el 15. Una secuencia hexadecimal sería así:
+
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 0A, 0B, 0C, 0D, 0E, 0F, +
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1A, 1B, 1C. 1D, 1E, 1F, +
+20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 2B, 2C, 2D, 2E, 2F, +
+30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 3A, 3B, ... +
+
+Apréciese que al llegar a la letra F sucede un aumento de dígito en el número inmediatamente a la izquierda, y la F cambiaría por un 0 para empezar a contar de nuevo. El lector puede intentar averiguar que número hexadecimal viene después del número 1A6F. Las letras pueden escribirse en mayúsculas o en minúsculas indistintamente. Los números en hexadecimales se suelen representar con el prefijo "0x", por ejemplo:
+
+0x00000001 +
+0x00000002 +
+0x00000003 +
+. +
+. +
+. +
+0x00C3BF91 +
+
+=== Criptografía de clave pública
+
+- Introducción criptografia: asimetrica vs simetrica
+
+- Intercambio de claves
+
+- Firma electrónica
+
+- Cifrado
+
+=== Funciones Hash
+
+- Descripción        	 
+
+- MD5               	 
+
+- SHA-1             	 
+
+- SHA-2             	 
+
+- Keccak and SHA-3 	 
+
+- Password storage   	 
+
+- Length extension attacks
+
+- Hash trees       	 
+
+=== Algoritmos (SHA256 y RIPEMD160)
+
+=== Criptografía de curva elíptica explicada: ECDSA  (Referencia)
