@@ -27,7 +27,6 @@ Here's what is available now:
 | [- ¿Cómo se relaciona Blockchain con Bitcoin?](relacion.asciidoc) |###### |
 | [- El Poder de la Cadena de Bloques](podercadena.asciidoc) |###### |
 | [- ¿Que es una cadena de bloques?](queesunacadena.asciidoc) |###### |
-
 | [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
 | [5. Blockchain Bitcoin](xxx.asciidoc) | #### |
 | [ - Breve historia: Antecedentes y origen](origen.asciidoc) | ### |
