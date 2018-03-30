@@ -8,7 +8,7 @@ La Blockchain es el libro público de todas las transacciones de Bitcoin que alg
 
 Cada nodo completo (es decir, cada ordenador conectado a la red Bitcoin utilizando un cliente que realiza la tarea de validar y retransmitir transacciones) tiene una copia de la cadena de bloques, que se descarga automáticamente cuando el minero se une a la red de Bitcoin. El blockchain tiene información completa sobre las direcciones y saldos desde el bloque de génesis (las primeras transacciones jamás ejecutadas) al bloque más recientemente completado.
 
- La cadena de bloques, como libro público,  significa que es fácil para consultar con cualquier explorador de bloques (como https://blockchain.info/) para las transacciones asociadas con una dirección particular de Bitcoin, por ejemplo, puedes buscar  tu propio monedero o dirección para ver la transacción en la que recibes  tu primer Bitcoin.
+La cadena de bloques, como libro público,  significa que es fácil para consultar con cualquier explorador de bloques (como https://blockchain.info/) para las transacciones asociadas con una dirección particular de Bitcoin, por ejemplo, puedes buscar  tu propio monedero o dirección para ver la transacción en la que recibes  tu primer Bitcoin.
 
 === Transferencia del valor
 
