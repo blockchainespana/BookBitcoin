@@ -10,6 +10,11 @@ Cada nodo completo (es decir, cada ordenador conectado a la red Bitcoin utilizan
 
 La cadena de bloques, como libro público,  significa que es fácil para consultar con cualquier explorador de bloques (como https://blockchain.info/) para las transacciones asociadas con una dirección particular de Bitcoin, por ejemplo, puedes buscar  tu propio monedero o dirección para ver la transacción en la que recibes  tu primer Bitcoin.
 
+Blockchain es visto como la principal innovación tecnológica de Bitcoin porque se erige como un mecanismo de prueba "sin confianza" de todas las transacciones en la red. Usuarios puede confiar en el sistema del libro público almacenado en todo el mundo, en muchas décadas diferentes. Nodos descentralizados mantenidos por "contadores mineros", en lugar de tener que establecer y mantener la confianza con la contraparte de la transacción (otra persona) o un tercero intermediario del partido (como un banco).
+
+Blockchain, subyace como la arquitectura para un nuevo sistema de las transacciones descentralizadas sin confianza. Es la innovación clave. Como ya hemos visto la cadena de bloques permite, des-intermediación y descentralización de todas las transacciones de cualquier tipo entre todos las partes a nivel mundial
+
+
 === Transferencia del valor
 
 Las tecnologías consensuadas descentralizadas proporcionan, por primera vez, una forma para que un usuario de Internet transfiera una propiedad digital única a otro usuario de Internet, de modo que la transferencia garantizada sea segura, pública e irrefutable. De adoptarse, estas tecnologías podrían transformar fundamentalmente la forma en que opera el mundo, introduciendo una gama de eficiencias para el comercio, las finanzas, las leyes y los seguros, y permitiendo la creación de la próxima generación de la World Wide Web, lo que ya se denomina como Web3.
