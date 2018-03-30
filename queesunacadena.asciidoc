@@ -1,6 +1,6 @@
 Entonces vale la pena preguntar: 
 
-== ¿Qué es una cadena de bloques?
+== ¿Qué es una cadena de bloques o Blockchain?
 
 La idea básica de una cadenas de bloques es mantener un registro, libro de contabilidad o base de datos distribuida de cierto tipo de información a lo largo del tiempo y que resista especialmente modificaciones malintencionadas. Cada uno de esos bloques contiene la información codificada de una transacción en la red. Normalmente se emplea en transacciones de tipo financiero, de modo que la cadena de bloques es una especie de «libro de contabilidad público incorruptible»: la información más reciente depende de que toda la información del pasado se encuentre intacta. Esto evita la manipulación y sirve como protección ante fraudes. En Bitcoin, por ejemplo, se usa para saber quién paga qué a quién, de modo que no se pueda negar haber recibido o pagado algo.
 
