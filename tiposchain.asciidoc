@@ -1,4 +1,4 @@
-===Tipos de Blockchain: Público, Privado e Híbrido 
+=== Tipos de Blockchain: Público, Privado e Híbrido 
 
 Existen tres tipos: 
 -Públicas
