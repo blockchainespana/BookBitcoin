@@ -8,8 +8,10 @@ Existen tres tipos:
 === Blockchains públicas
 
 Los ejemplos más conocidos de Blockchains públicas son Bitcoin y Ethereum. Una Blockchain pública es accesible a cualquier usuario en el mundo. Lo único que se necesita es un ordenador y una conexión a Internet.
+El problema central a resolver por el Blockchain publico es lograr y mantener la integridad en un sistema punto a punto puramente distribuido  que se compone de un número desconocido de pares con confiabilidad desconocida.
 
-En un sistema centralizado evitar el problema del "doble gasto" es muy sencillo, pero en un sistema descentralizado en el que todos los ordenadores tienen una copia de todas las transacciones (la blockchain) la cuestión de cómo se ponen de acuerdo todos los nodos para definir cuál es la realidad de esa base de datos de forma descentralizada para llegar a un consenso y funcionar es un problema altamente complejo que nadie consiguió resolver hasta que apareció Bitcoin. Bitcoin resuelve este problema con las matemáticas, la criptografía y la comunidad Bitcoin (los usuarios, mineros, casas de cambio y desarrolladores del ecosistema Bitcoin).
+Bitcoin, por primera vez, resuelve este problema, y lo hace de manera segura, o muy segura. Por un lado, una de las principales fortalezas de su seguridad viene de la aplicación de robustos sistemas criptográficos, que ofrece un nivel de seguridad superior a los más avanzados de defensa de servidores, por otro lado plantea un nuevo paradigma en la forma de estructurar su arquitectura operativa, más allá de la estructura cliente servidor (centralizada) muy vulnerable o de los modelos Cloud (distribuido) que también comienzan a dar señales de lentitud en respuesta a desafíos de  seguridad,
+
 
 === Blockchains privadas
 
