@@ -1,21 +1,21 @@
-=== Tipos de Blockchain: Público, Privado e Híbrido 
+== Tipos de Blockchain: Público, Privado e Híbrido 
 
 Existen tres tipos: 
 -Públicas
 -Privadas 
 -Híbridas.
 
-== Blockchains públicas
+=== Blockchains públicas
 
 Los ejemplos más conocidos de Blockchains públicas son Bitcoin y Ethereum. Una Blockchain pública es accesible a cualquier usuario en el mundo. Lo único que se necesita es un ordenador y una conexión a Internet.
 
 En un sistema centralizado evitar el problema del "doble gasto" es muy sencillo, pero en un sistema descentralizado en el que todos los ordenadores tienen una copia de todas las transacciones (la blockchain) la cuestión de cómo se ponen de acuerdo todos los nodos para definir cuál es la realidad de esa base de datos de forma descentralizada para llegar a un consenso y funcionar es un problema altamente complejo que nadie consiguió resolver hasta que apareció Bitcoin. Bitcoin resuelve este problema con las matemáticas, la criptografía y la comunidad Bitcoin (los usuarios, mineros, casas de cambio y desarrolladores del ecosistema Bitcoin).
 
-== Blockchains privadas
+=== Blockchains privadas
 
 Una Blockchain privada, a diferencia de una Blockchain pública, no está abierta al público, sino que solo se puede acceder a ella por invitación. Las Blockchains privadas son más nuevas que las Blockchains públicas y pueden ser muy diferentes las unas a las otras y en algunos casos es incluso cuestionable que se pueda hablar de Blockchain para algunas de las soluciones que se conocen en el mercado. Algunas de las más famosas son Hyperledger (de la Fundación Linux), R3 (un consorcio de bancos internacionales para desarrollar soluciones bancarias de blockchain privada) o Ripple (un protocolo para facilitar las transferencias internacionales de dinero).
 
-== Blockchains híbridas
+=== Blockchains híbridas
 
 Las Blockchain híbridas son una combinación de las públicas y privadas. En una Blockchain híbrida los nodos participantes son invitados, pero todas las transacciones son públicas. 
 Aquí, el proceso de validación de consenso puede ser controlado por personas u organizaciones preseleccionadas, como un consorcio de instituciones financieras o los clientes de una empresa.
