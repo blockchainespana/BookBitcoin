@@ -1,0 +1,19 @@
+== Desafios tecnicos de blockchain actual:
+
+La tecnología Blockchain también tiene algunos desafíos técnicos y limitaciones que se han identificado. Swan1 presenta siete desafíos técnicos y limitaciones para la adaptación de la tecnología Blockchain en el futuro:
+
+=== Rendimiento: el rendimiento potencial de los problemas en la red de Bitcoin se maximiza actualmente a 7 puntos por segundo (transacciones por segundo). Otras redes de procesamiento de transacciones son VISA (2,000tps) y Twitter (5,000tps). Cuando la frecuencia de las transacciones en Blockchain aumenta a niveles similares, el rendimiento de la red Blockchain necesita mejorarse.
+
+Latencia: para crear la seguridad suficiente para un bloque de transacciones de Bitcoin, en la actualidad se necesitan aproximadamente 10 minutos para completar una transacción. Para lograr la eficiencia en seguridad, se debe pasar más tiempo en un bloque, ya que tiene que superar el coste de los ataques de doble gasto. El doble gasto es el resultado de un gasto de dinero, ejecutado y realizado más de una vez. Bitcoin protege contra el gasto doble al verificar cada transacción agregada a la cadena de bloques, para garantizar que las entradas para la transacción no se hayan gastado previamente . Esto hace que la latencia sea un gran problema en Blockchain actualmente. Hacer un bloqueo y confirmar la transacción debería ocurrir en segundos, mientras se mantiene la seguridad. Para completar una transacción, p. en VISA toma solo unos segundos, lo cual es una gran ventaja en comparación con Blockchain.
+
+Tamaño y ancho de banda: por el momento, el tamaño de un Blockchain en la red de Bitcoin es más de 190,000MB (2018). Cuando el rendimiento aumenta a los niveles de VISA, Blockchain podría crecer 214PB en cada año. La comunidad de Bitcoin asume que el tamaño de un bloque es de 1MB, y se crea un bloque cada diez minutos . Por lo tanto, existe una limitación en el número de transacciones que pueden manejarse (en promedio, 500 transacciones en un bloque) . Si Blockchain necesita controlar más transacciones, se deben resolver los problemas de tamaño y ancho de banda.
+
+Seguridad: la actual tecnología  Blockchain tiene una posibilidad de un 51% de ataque. En un ataque del 51%, una sola entidad tendría el control total de la mayoría de la tasa de hash minero de la red y podría manipular Blockchain. Para superar este problema, se necesita más investigación sobre seguridad.
+
+Recursos desperdiciados: la minería de Bitcoin desperdicia grandes cantidades de energía ($ 15 millones / día). El desperdicio en Bitcoin es causado por el esfuerzo de la Prueba de trabajo. Existen algunas alternativas en los campos de la industria, como la prueba de participación. Con la prueba de trabajo, la probabilidad de extraer un bloque depende del trabajo realizado por el minero.
+
+Sin embargo, en Proof-of-Stake, el recurso que se compara es la cantidad de Bitcoin que tiene un minero. Por ejemplo, alguien que posee el 1% de Bitcoin puede extraer el 1% de los "bloques de Proof of Stake" El problema con los recursos desperdiciados debe resolverse para tener una minería más eficiente en Blockchain.
+
+Usabilidad: la API de Bitcoin para desarrollar servicios es difícil de usar. Es necesario desarrollar una API más amigable para desarrolladores para Blockchain. Esto podría parecerse a las API REST.
+
+Versiones, hard forks, cadenas múltiples: una pequeña cadena que consiste en un pequeño número de nodos tiene una mayor posibilidad de un 51% de ataque. Otro problema surge cuando las cadenas se dividen con fines administrativos o de control de versiones.
