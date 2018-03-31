@@ -99,7 +99,7 @@ Ethereum ha sido  el primer blockchain público que permitió la programación d
 Los Contratos Inteligentes pueden tomar decisiones, realizar transferencias y leer o ejecutar otros contratos para facilitar intercambios de dinero, contenidos, propiedad, acciones, o cualquier otro valor entre personas iguales de manera segura, transparente y sin intermediarios. (En el capitulo 11, veremos la evolución del ecosistema Bitcoin y  las implementaciones de Smart Contract).
 
 Una   aplicación   futura   de   Ethereum   son   DAOs   o   Organizaciones   Autónomas   Descentralizadas. 
-Un   DAO   se   compone   de   uno   o   más   contratos   y   podría   ser   financiado   por   un   grupo   de   personas  con   ideas   similares.   Un   DAO   opera   completamente   transparente   e   independiente   de   cualquier intervención   humana,   incluyendo   a   sus   creadores   originales.   Un   DAO   permanecerá   en   la   red  mientras   cubra   sus   costos   de   supervivencia   y   proporcione   un   servicio   útil   a   su   base   de   clientes. 
+Un   DAO   se   compone   de   uno   o   más   contratos   y   podría   ser   financiado   por   un   grupo   de   personas  con   ideas   similares.   Un   DAO   opera   completamente   transparente   e   independiente   de   cualquier intervención   humana,   incluyendo   a   sus   creadores   originales.   Un   DAO   permanecerá   en   la   red  mientras   cubra   sus   costes   de   supervivencia   y   proporcione   un   servicio   útil   a   su   base   de   clientes. 
 
 ==== Namecoin
 Mención especial hacemos tambien de Namecoin:  es la alternativa descentralizada al sistema de registro de nombres de dominio que actualmente es centralizado y que está controlado la organización ICANN.
@@ -108,7 +108,7 @@ Creado en 2010, Namecoin (http://namecoin.org) es una base de datos de registro 
 
 Namecoin es el más antiguo y la implementación con más éxito de un sistema de registro de nombres usando tal idea. Es open source, tecnología de origen que mejora la descentralización, la seguridad, la resistencia a la censura, la privacidad, y la velocidad de ciertos componentes de la infraestructura de Internet, como DNS e identidades. Namecoin es realmente, un sistema de registro y transferencia de pares clave / valor basado en la tecnología Bitcoin.
 
-Otros iniciativas y aplicaciones descentralizadas:
+== Otros iniciativas y aplicaciones descentralizadas:
 
 A continuación reseñamos algunas de estas iniciativas descentralizadas que estan surgiendo a partir de la tecnología blockchain de Bitcoin:
 
