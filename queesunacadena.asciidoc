@@ -26,8 +26,10 @@ Podemos hablar de lo que se ha llamado el internet del valor: Las cadenas de blo
  – Son seguras
  – Funcionan sin autoridad central y sin terceros de confianza
  – Tienen un mecanismo de consenso
- 
- “#The Bitcoin protocol and network today is that foundational layer. It is a value transfer network.Beyond that, it is a core, backbone security service securing contracts, physical and digital property, equities, bonds, robot AI and an enormous wave of applications which have not yet been conceived.” 
+
+Por lo tanto, la cadena de bloques puede ser utilizado para cualquier forma de registro de activos, inventario e intercambio, incluidas todas las áreas de finanzas, economía y dinero; activos tangibles (propiedad física); y activos intangibles (votos, ideas, reputación, intención, datos de salud, etc.).
+
+“#The Bitcoin protocol and network today is that foundational layer. It is a value transfer network.Beyond that, it is a core, backbone security service securing contracts, physical and digital property, equities, bonds, robot AI and an enormous wave of applications which have not yet been conceived.” 
 
 Jeff Garzik, Bitcoin core developer and CEO, Dunvegan Space Systems
 
