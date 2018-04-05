@@ -29,6 +29,7 @@ Here's what is available now:
 | [- ¿Que es una cadena de bloques?](queesunacadena.asciidoc) |###### |
 | [- Tipos de redes Blockchain](tiposchain.asciidoc) |###### |
 | [- Desafios tecnicos de blockchain actual](desafios.asciidoc) |###### |
+| [- Blockchain y ecosistema completo descentralizado](ecosistema.asciidoc) |###### |
 | [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
 | [5. Blockchain Bitcoin](xxx.asciidoc) | #### |
 | [ - Breve historia: Antecedentes y origen](origen.asciidoc) | ### |
