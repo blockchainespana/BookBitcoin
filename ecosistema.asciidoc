@@ -1,0 +1,15 @@
+== Blockchain y ecosistema completo descentralizado
+
+Para lograr una descentralización completa, es necesario que el ambiente alrededor el Blockchain también está descentralizado. Blockchain en sí es un libro mayor distribuido que se ejecuta en la parte superior de sistemas convencionales. Estos elementos incluyen almacenamiento, comunicación y computación.
+
+Hay otros factores, como la Identidad, que tradicionalmente se basan en paradigmas centralizados y hay una necesidad de descentralizar estos aspectos también con el fin de lograr un ecosistema completamente descentralizado.
+
+Almacenamiento
+
+Los datos se pueden almacenar directamente en una cadena de bloques, y con esto, logra la descentralización, pero una gran desventaja de este enfoque es que Blockchain no es adecuado para almacenar grandes cantidades de datos por diseño. Puede almacenar transacciones simples y algunos datos arbitrarios pero es ciertamente no es adecuado para almacenar imágenes o grandes cantidades de datos, como es el caso de los tradicionales sistemas de bases de datos. 
+
+Una alternativa mejor, es usar tablas hash distribuidas (DHT). DHT eran originalmente utilizado en el software de intercambio de archivos peer-to-peer, como BitTorrent, Napster, Kazaa, y Gnutella.  La investigación sobre DHT se hizo popular gracias a proyectos como CAN, Chord, Pastry y Tapestry . BitTorrent resulta ser la red más escalable y rápida, pero el problema es que no hay ningún incentivo para que los usuarios guarden los archivos indefinidamente. 
+Los usuarios generalmente no guardan archivos permanentemente, y si los nodos salen de la red que tiene datos requeridos por alguien, no hay forma de recuperarlo, excepto que los nodos necesarios vuelvan a unirse a la red para que los archivos estar disponible una vez más.
+
+Dos requisitos principales aquí son la alta disponibilidad y la estabilidad de los enlaces de objetos, lo que significa que los datos deben estar disponibles cuando sea necesario y los enlaces de red también debería ser siempre accesible. 
+Sistema Interplanetario de Archivos (IPFS) de Juan Benet posee ambas propiedades y la visión es proporcionar una red web descentralizada reemplazando el protocolo HTTP. IPFS utiliza Kademlia DHT y merkle DAG (Directed Acyclic Gráfico) para proporcionar la funcionalidad de almacenamiento y búsqueda, respectivamente.
