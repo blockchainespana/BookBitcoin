@@ -1,10 +1,8 @@
 === Internet del valor : Salto Tecnologico y social
 
 
-El mundo cambió de repente, de forma repentina, sin que muchos vieran el impacto real que iba a tener en el futuro y que
-tendrá, fue con la aparición de los bits, no hablemos técnicamente de lo que son los bits, sino intentar transmitir el
-concepto de digitalización. Hoy en día, todo se puede almacenar, todo deja huellas digitales, hay suficiente capacidad como
-para almacenar toda la información generada por el hombre durante los últimos 40.000 años. 
+El mundo cambió  de repente, con la aparicion de los ordenadores y tambien con la aparicion de Internet, sin que pudieramos ver su impacto, y lo que ha supuesto en la digitalizacion de muchos aspectos de nuestra realidad.
+Hoy en día, todo se puede almacenar, todo se puede rastrear ya que dejamos huellas digitales, hay suficiente capacidad como para almacenar toda la información generada por el hombre durante miles de años. 
 
 “mientras los sistemas sociales cambian incrementalmente, la tecnología lo hace de forma exponencial, creándose así una brecha que posibilita los cambios discontinuos y revolucionarios”.
 
