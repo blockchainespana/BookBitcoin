@@ -1,15 +1,17 @@
 === Internet del valor : Salto Tecnologico y social
 
-El mundo cambió  de repente, con la aparicion de los ordenadores y tambien con la aparicion de Internet, sin que pudieramos ver su impacto, y lo que ha supuesto la digitalizacion de muchos aspectos de nuestra vida y realidad actual. Hoy en día, todo se puede almacenar, casi todo lo que hacemos o pensamos, deja un rastro digital, pero hay suficiente capacidad como para almacenar toda la información generada por el hombre durante miles de años. 
+El mundo cambió  de repente, con la aparicion de los ordenadores y tambien con la aparicion de Internet, sin que pudieramos ver su impacto, y lo que ha supuesto la digitalizacion de muchos aspectos de nuestra vida y realidad actual.
+
+Hoy en día, todo se puede almacenar, casi todo lo que hacemos o pensamos, deja un rastro digital, pero hay suficiente capacidad como para almacenar toda la información generada por el hombre durante miles de años. 
 
 Actualmente existe ya una gran diferencia entre el ritmo de evolución de la tecnología y el de las organizaciones sociales, económicas, y políticas que estan provocando rupturas cada cierto tiempo: 
 
 “mientras los sistemas sociales cambian incrementalmente, la tecnología lo hace de forma exponencial, creándose así una brecha que posibilita los cambios discontinuos y revolucionarios”.
 (law of disruption, Larry Downes)
 
-Tenemos la oportunidad de vivir en una época única, las antiguas estructuras anquilosadas , pueden provocar la aparición de fuerzas de transformación y renovacion  que cambian el paradigma de ciertos sectores de una forma  tan rapida y profunda,  que cuesta visualizarlo. 
+Tenemos la oportunidad de vivir en una época única, donde a pesar de las antiguas estructuras anquilosadas , pueden provocar la aparición de fuerzas de transformación que cambian el paradigma de ciertos sectores de una forma  tan rapida y profunda,  que nos costaría imaginarlo hace años. 
 
-Hasta ahora, las organizaciones han tenido que adaptarse y adoptar los beneficios que ha creado la era digital, han tenido que rediseñar sus diferentes sistemas de comunicación internos para introducir ordenadores y software necesarios para facilitar tareas y operaciones que se llevan a cabo dentro de ellas o mínimo en sus principales áreas.
+Hasta ahora, las organizaciones han tenido que adaptarse y adoptar los beneficios que ha creado la era digital, han tenido que rediseñar sus diferentes sistemas de comunicación internos para introducir ordenadores y software necesarios para facilitar tareas y operaciones que se llevan a cabo dentro de ellas o con su ecosistema de relacion con terceros
 
 Pero con blockchain las posibilidades de transmitir información de bienes digitales y que todo el mundo pueda intercambiar y compartir valor de igual a igual (P2P) mediante criptomonedas propias, nos deja claro que el poder no va a estar tan centralizado. Eso cambia la operativa de las empresas, pero también la operativa de las personas, cómo interactuamos ahora entre nosotros. Y esto es realmente fascinante, tratar de imaginar cómo va a ser el futuro en 20, 30 sobre todo a nivel social.
 
