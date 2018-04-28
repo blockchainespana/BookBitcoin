@@ -32,10 +32,9 @@ Here's what is available now:
 | [- Blockchain y ecosistema completo descentralizado](ecosistema.asciidoc) |#### |
 | [4.Introducción a la criptografía y su uso en Blockchain](Intro-a-la-criptografia-y-su-uso.asciidoc) | # |
 | [5. Blockchain Bitcoin](xxx.asciidoc) | #### |
-| [ - Breve historia: Antecedentes y origen](origen.asciidoc) | ### |
+| [ - Breve historia: Antecedentes y origen](origen.asciidoc)  | ### |
 
-
-Jump in! Review, comment, suggest and contribute...
+Jump in! Review, comment, suggest and contribute... 
 
 # Contributing, reviewing and commenting
 
