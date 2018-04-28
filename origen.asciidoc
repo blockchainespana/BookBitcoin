@@ -1,5 +1,4 @@
- ===Antecedentes y origen: 
-
+== Antecedentes y origen: 
 
 Bitcoin ha creado realmente el concepto de “Blockchain”, inspirándose en otras soluciones. Los movimientos cyberpunk, cypherpunk y hacktivista sentaron las bases que permitirían crear la primera criptomoneda del mundo, el bitcoin; pero, más relevante aun, facilitaron idear el protocolo de cadenas de bloques(Blockchain) Bitcoin, basado en la criptografia de clave publica, que habia nacido años antes, rompiendo la hegemonia de la NSA americana, basada en una anticuada criptografia de clave privada simetrica
 
