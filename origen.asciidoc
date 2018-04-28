@@ -1,0 +1,38 @@
+ ===Antecedentes y origen: 
+
+
+Bitcoin ha creado realmente el concepto de “Blockchain”, inspirándose en otras soluciones. Los movimientos cyberpunk, cypherpunk y hacktivista sentaron las bases que permitirían crear la primera criptomoneda del mundo, el bitcoin; pero, más relevante aun, facilitaron idear el protocolo de cadenas de bloques(Blockchain) Bitcoin, basado en la criptografia de clave publica, que habia nacido años antes, rompiendo la hegemonia de la NSA americana, basada en una anticuada criptografia de clave privada simetrica
+
+David Chaum es uno de los iniciadores de la criptografía aplicada a los pagos, firmas ciegas para pagos ilocalizables, imposibles de rastrear. Un sistema que, por un lado, no permite a terceras partes, la determinación del perceptor, el tiempo o el importe de los pagos hechos por otra persona; importante en términos de intimidad y privacidad; por otra, la capacidad de los individuos para proveer una prueba del pago o informar de la identidad del perceptor bajo circunstancias excepcionales. 
+
+Entre 1992 y 1994 se difunde la criptografía como manifestación de un movimiento denominado criptoanarquía: un medio para tutelar la privacidad y la libertad individual en la red: 
+
+“...una criptografía potente puede causar la declinación del poder del estado y quizá aún colapsarlo. Creemos que la expansión en el ciberespacio con comunicaciones seguras, anonimato y seudónimos y otras interacciones criptomediales cambiaran profundamente la naturaleza de las interacciones económicas y sociales.
+
+
+“La informática está al borde de proporcionar la capacidad a individuos y grupos de comunicarse e interactuar entre ellos de forma totalmente anónima. Dos personas pueden intercambiar mensajes, hacer negocios y negociar contratos electrónicos, sin saber nunca el Nombre Auténtico, o la identidad legal, de la otra. Las interacciones sobre las redes serán intrazables, gracias al uso extendido de re-enrutado de paquetes encriptados en máquinas a prueba de manipulación que implementen protocolos Criptográficos, con garantías casi perfectas, contra cualquier intento de alteracion.
+
+Las reputaciones tendrán una importancia crucial, mucho más importante en los tratos que las calificaciones crediticias de hoy en día. Estos progresos alterarán completamente la naturaleza de la regulación del gobierno, la capacidad de gravar y de controlar las interacciones económicas, la capacidad de mantener la información secreta, e incluso alterarán la naturaleza de la confianza y de la reputación”
+
+Timothy C.May Cyphernomicon. The Crypto Anarchist Manifesto1
+
+Bitcoin es realmente la implementación de un concepto que fue ideado tiempo atrás por el criptógrafo Wei Dai2: la criptomoneda
+En el año 1998, Wei Dai publicó una revolucionaria propuesta3 en la lista de correo electrónico Cypherpunk: la de un sistema de intercambio de valor y ejecución de contratos basado en una moneda electrónica irrastreable, que le permitiera a sus dueños mantenerse anónimos. A esta moneda electrónica criptográfica  la llamó “b-money“.
+La propuesta de Wei Dai no despertó en su momento mayor interés, pero más adelante, fue rescatada, desarrollada y perfeccionada por Satoshi Nakamoto4 quien decidió incluirla como referencia en su ya célebre paper (“Bitcoin: A Peer-to-Peer Electronic Cash System”), publicado en el año 2008. (https://bitcoin.org/bitcoin.pdf). 
+Version en castellano: https://bitcoin.org/files/bitcoin-paper/bitcoin_es_latam.pdf
+He aquí un fragmento del texto de Wei Dai, que inspiró a Satoshi Nakamoto, traducido al castellano:
+Me fascina la idea de Tim May de una sociedad completamente voluntaria y protegida por medio de la criptografía. A diferencia del tipo de comunidad tradicionalmente asociado con la palabra “anarquía”, en una cripto-anarquía el gobierno no es eliminado, pero es incapaz de imponerse. En este tipo de comunidad, la amenaza de la violencia resulta impotente, dado que no es posible ejercer la violencia sobre miembros de una comunidad que no pueden ser identificados en contra de su voluntad.
+Hasta ahora no está claro, ni siquiera en teoría, cómo podría funcionar semejante comunidad. Una comunidad se define por el nivel de cooperación entre sus miembros, y para que esa cooperación sea eficiente, es necesario contar con un medio de intercambio (dinero) y determinar la manera en que se harán cumplir los contratos.
+ Tradicionalmente, estos servicios han sido proporcionados por los gobiernos (o por instituciones patrocinadas por los gobiernos) a personas físicas o jurídicas definidas por ellos. En este artículo describiré un protocolo en virtud del cual dichos servicios pueden ser suministrados a entidades irrastreables y por entidades irrastreables.
+
+por Hal Finney
+Cuando Satoshi anunció el lanzamiento de la primera
+versión del software, lo descargué de inmediato. Creo que
+fui la primera persona, después de Satoshi, en ejecutar el
+cliente Bitcoin. Mi ordenador encontró el bloque setenta y
+algo, y fui el primer destinatario de una transacción
+mediante Bitcoin, cuando Satoshi me envió diez “monedas”
+a modo de prueba. Durante los siguientes días mantuvimos
+una larga conversación vía email, en la cual le reporté
+varios fallos que él se apuró a corregir.
+
